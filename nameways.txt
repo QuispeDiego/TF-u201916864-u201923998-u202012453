@@ -1,0 +1,1621 @@
+27455207,Henado de Magallanes
+27455450,Avenida República de Venezuela
+27455460,Calle Gamarra
+28185186,Avenida La Libertad
+28185271,Avenida Víctor Raúl Haya de la Torre
+28185277,Avenida Víctor Raúl Haya de la Torre
+28185315,Avenida Juan Bertolotto
+28707195,Mariscal Caceres
+28815118,undefined
+28815131,Avenida Simon Bolivar
+28815150,Avenida Mariano Cornejo
+28815160,Avenida Mariano Cornejo
+28815877,Jirón San Martín
+28815881,Avenida Antonio de Sucre
+28815951,Avenida Antonio de Sucre
+28866356,Avenida Pio XII
+28866358,Avenida Pio XII
+28866369,Calle Gritos de Huaura
+28866373,Calle Punchauca
+28866381,Avenida de los Precursores
+28866387,Avenida Parque de las Leyendas
+28866408,Avenida Parque de las Leyendas
+28866410,Avenida Parque de las Leyendas
+28866415,Avenida Jorge Dintilhac
+30102310,undefined
+33471235,Jirón Carlos Bondy
+33471236,Diego Aguero
+33471421,Diego Quispe Tito
+34906375,Alfonso Ugarte
+34906402,Avenida Arica
+34906732,Comandante Ladislao Espinar
+34906787,Manuel Estacio
+34907078,Calle Los Eucaliptos
+34907335,Calle Los Amancaes
+37718963,Calle Los Robles
+37718965,Calle Las Tipas
+37718990,Calle Los Olivos
+37719007,Calle Madreselvas
+37719016,Calle Los Jazmines
+37719035,Calle Los Crisantemos
+37719043,Calle Las Cucardas
+37719058,Calle Las Dalias
+37719101,Calle Los Ficus
+37719103,Calle Los Sauces
+37719258,Avenida Juan Guillermo More
+37719270,undefined
+37719292,Calle Las Rosas
+37719323,Auxiliar Avenida República de Venezuela
+37719408,Calle Los Juncales
+37719411,Calle Los Carrizales
+37719418,Calle Los Chinchorros
+37719430,Calle Los Pinos
+37719447,Calle Los Alhelíes
+37719467,Calle 14
+37719470,Calle 26E
+37719496,Calle 30 D
+37719507,Calle 46
+37719509,Calle 49
+37719529,undefined
+37719532,undefined
+37719534,Calle 35 A
+37719535,undefined
+37762098,Calle 31 G
+37762162,Calle 29B
+38221455,Calle 30 A
+38944606,undefined
+38944608,undefined
+38944673,undefined
+39335284,Calle Elias Chunga Zapata
+39550884,Calle Mantaro
+39550977,Auxiliar Avenida República de Venezuela
+39551064,Calle Ricardo Palma
+39551070,Calle Jose Carlos Mariátegui
+39551236,Avenida La Paz
+39551417,Calle Paita
+39551428,Calle Lambayeque
+39551438,Avenida El Pacífico
+39551449,Calle Chimbote
+39551462,Calle Piura
+39551479,Calle Huascar
+39551492,Calle Ramón Zavala
+39551494,Calle Inca Roca
+39551496,Huamachuco
+39551497,Calle Ramón Zavala
+39551501,undefined
+39551540,Calle San Fernando
+39551543,Calle 29
+39551571,Calle Quirihuac
+39551573,Calle Coruña
+39551575,Calle Carlos Augusto Salaverry
+39551585,Calle Sinchi Roca
+39551586,Calle Ramón Zavala
+39551588,Calle Cahuide
+39612377,Calle Ascope
+39612378,Calle Ascope
+39612379,Calle Chepan
+39612380,Calle Moche
+39612381,Calle Chiclín
+39612382,Calle Paiján
+39612384,Calle Banchero
+39612385,Calle Huascar
+39612386,Calle H. Ferreyra Leon
+39612389,Calle Dulio Poggi
+39612390,Calle Emancipación
+39612391,Chepén
+39612394,Talambo
+39612396,undefined
+39612399,Calle 20A
+39612400,Calle 19
+39612402,Calle Maranga
+39612403,Aviación
+39612404,Calle de José Olaya
+39612406,Calle Echenique
+39612408,San Martín
+39612412,Calle Aragón
+39612414,Calle Valencia
+39612415,Calle Alipio Ponce
+39612421,Calle 9
+39612423,Calle Eloy Ureta
+39612521,Calle José del Carmen Marín
+39612528,Calle 9
+39612534,Calle Andalucía
+39612535,Calle Zaragoza
+39612540,Calle Madrid
+39612544,Calle 1
+39612545,Calle Cádiz
+39612552,undefined
+39612553,Calle Granada
+39612558,Calle Barcelona
+39612561,Calle César Vallejo
+39612564,Javier Heraud
+39612565,Calle Salaverry
+39612566,Valdelomar
+39612568,Amarillis
+39612569,Valdelomar
+39612572,undefined
+39612573,Javier Abril
+39612574,Peralta
+39612577,Calle Juan José Pardo
+39612580,Calle Tiburcio Rios
+39612582,Calle Tiburcio Rios
+39612583,Calle Calzado Peruano
+39612587,Calle Islas Ceilan
+39612589,Calle Punta Lomitas
+39612591,Calle Cumana
+39612597,Calle Federico Noguera
+39612640,Calle Jose Celendon Condestable
+39612644,Calle Tiburcio Rios
+39612650,Avenida Los Patriotas
+39612651,Avenida Los Patriotas
+39612654,Calle Islas Filipinas
+39612655,Calle Islas Canarias
+39612656,Calle Elias Chunga Zapata
+39612657,Calle Islas Sumatra
+39612658,Calle Islas Malvinas
+39612659,Calle Islas Azores
+39612660,Calle Islas Aleutianas
+39612671,Calle 52A
+39612689,Miguel Hidalgo
+39612690,Calle Paso de los Andes
+39612692,Capitán de Navío Emilio Carrillo
+39612697,La Apacheta
+39612698,Calle de José Martí
+39612699,Jirón Lautaro
+39612700,Puerta Halcones
+39661624,Jirón Lautaro
+39661640,Calle José María Morelos
+39661643,Guimaraes
+39661654,M. Falco
+39661656,Juan Balcarza
+39661657,B. San Juan
+39661664,B. Huarmey
+39661669,Taquitahuana
+39661675,Cuauthemoc
+39661680,Capitán Stiglish Álvarez
+39661681,Quiquijana
+39661685,Calle de José Martí
+39661698,Calle Ubinas
+39661705,Avenida Parque de las Leyendas
+39661712,Calle La Apacheta
+39661720,Calle Taquitahuana
+39661730,Añaquito
+39661741,Calle Nevado Chachani
+39661744,García y García
+39661749,Isla Mazorca
+39661764,Avenida Faucett
+39661779,Jirón Hernando de Soto
+39661787,Calle 4
+39661788,Calle de José Martí
+39661789,Calle Hatuey
+39661799,Calle Gonzalo Pizarro
+39661801,Calle Isla del Gallo
+39661803,Ramon Ponce
+39661805,Calle Hernán Cortez
+39661825,Calle Blasco Nuñez de Vela
+39661827,Capitán Manuel Ferreyros
+39661829,Bahía de Pisco
+39661838,Capitán Manuel Ferreyros
+40701605,Avenida Santa Mariana de Paredes
+40704239,Calle Santa Teodosia
+40712097,Calle Los Tulipanes
+40716663,Paracas
+40716664,Jirón Abraham Lincoln
+40716667,Avenida Alejandro Bertello
+40717549,Urubamba
+40717778,undefined
+40721293,Santa Bernardita
+40721301,Avenida Santa Gertrudis
+40721303,Santa Honorata
+40721307,Jirón Santa Florencia
+40756171,Calle Santa Sabina
+41002699,Calle Santa Teodosia
+41010155,Calle Santa Susana
+41011105,Calle Santa Paula
+43315271,Calle C
+43475428,Jirón Mariscal Ramón Castilla
+43475492,Puga de Lozada
+43475518,Los Cauchos
+43475521,Calle 2
+43475525,Calle Las Campanillas
+43475529,Las Chiras
+43475557,Mariana Echevarria de Santiago
+43475559,Calle Diego Quispe Tito
+43476276,undefined
+43478130,Avenida Rafael Escardo
+46345911,undefined
+46480623,Brigida Silva de Ochoa
+46480624,Brigida Silva de Ochoa
+46480626,Prolongación Ayacucho
+46480627,Jirón Cuzco
+46480630,Brigida Silva de Ochoa
+46961355,Calle Pedrerías
+47519112,Jirón Francisco Bolognesi
+47519113,José de San Martín
+47519115,Avenida Tacna
+47519116,Prolongación Lima
+47519118,Federico Gerdes
+47519119,Calle Carlos Pareja
+47519120,Alberto Arca Parro
+47519122,Calle Laura Rodriguez
+47519123,Rosendo Badani
+47519130,Calle El Solitario de Sayán
+47519137,Avenida Rafael Escardo
+47596901,Jirón Ayacucho
+47596903,Jirón Huamanga
+47596904,Jirón Amazonas
+47596908,Jirón Junín
+47596909,Jirón Arequipa
+47596910,Avenida Federico Gallese
+47596911,Jirón Comandante Espinar
+47596914,Calle Tacna
+47596915,Jirón Miguel de Echenique
+47596917,Diego Ferré
+47596918,Martin Luther King
+47596919,Salas
+47596920,Jirón Alfonso Ugarte
+47638904,Mama Runter
+47638906,Dianderas
+47638907,José Salas
+47638912,Perez Oblitas
+47638913,Esther Festini de Ramos
+47699888,Hermelinda Carrera
+47699940,Calle José La Mar
+47700001,Calle Parque Principal
+47700013,Miguel Grau
+47700015,undefined
+47700020,Udima
+47700024,Cañon del Pato
+47700036,Huinco
+47700037,Autisha
+47700044,Santa Ana
+47700046,Urabaín
+47700068,Marcapomacocha
+47700069,Yanacoto
+47700091,Gabriela Mistral
+47700104,Lope de Vega
+47700137,Copernico
+47700143,Calderon de la Barca
+47700147,Fray Luis de Leon
+47700150,Euripides
+47700152,Verne
+47700165,Martinez
+47700179,Ayarza
+47700188,Josefina Sanchez
+47700192,Calle Manuela Marticorena
+47700199,Trinidad Enriquez
+47700218,Pedro Benvenutto Murrieta
+47700221,Petronila Alvarez
+47700230,Pasaje San Juan de Dios
+47700246,Pagador
+47700264,Candelaria Garcia
+47700284,Calle Santa Justina
+47700286,Barbara Alcazar
+47700292,Calle San Bruno
+47700294,Pasaje San Juan Carlos
+47700296,Pasaje San Guido
+47700338,Umachiri
+47700341,Jirón Miguel de Unamuno
+47700360,Meliton Rodriguez
+47700363,Jose Medina
+47700366,General Dianderas
+47700369,Calle Gil Espino
+47700376,Jirón Camino de Inca
+47700380,Jirón Jorge Castro Harrinson
+47700383,Cacique Umachiri
+47731146,Bernardo Alcedo
+47731147,Pasaje Jorge Chavez
+47731148,Pasaje de Zela
+47731151,Ricardo Palma
+47731152,Nicolás de Piérola
+47731153,Francisco de Zela
+47731154,Jorge Chavez
+47731155,Calle Pascual de Andagoya
+47731156,Calle Los Chimus
+47731157,Calle Los Aymaras
+47731158,Quechuas
+47731159,Calle Lima
+47731175,Mochicas
+47731176,Calle Los Nazcas
+47731177,Calle Los Huancas
+47731178,Calle Los Yungas
+47731179,Jirón Manco Segundo
+47731180,Calle Tambo Huáscar
+47731181,Nazcas
+47731183,Calle Hermanos Catari
+47731187,Manuel Mesones Muro
+47731188,Calle José Gabriel Aguilar
+47731190,Maipu
+47731191,Carabobo
+47731192,Calle Maranga
+47731193,Julian Apaza
+47731194,Américo Vespucio
+47731196,Santos Atahualpa
+47731197,Puquina
+47731198,Coyaba
+47731199,Sor Edecia
+47731200,Jose Domingo Choquehuanca
+47731202,Guevara
+47731203,Padre Guatemala
+47731204,Ines Huaylas Yupanqui
+47731206,María José de Arce
+47731207,Pasaje Jose Liborno
+47731208,Padre Urraca
+47731209,Avenida La Marina
+47731211,Eugenio de la Torre
+47731217,Pasaje Tungasuca
+47731218,Dean Saavedra
+47731219,Ventura Callamaqui
+47731220,Calle Luis Miroquesada de Guerra
+47731221,Calle María Escobar
+47731239,Alberto Arca Parro
+47731240,Calle Mercedes Gallagher de Parks
+47731241,Pedro Benvenutto Murrieta
+47731242,Calle Cristóbal de Mena
+47731243,Calle Manrique de Luna
+47731244,A. Palma
+47731245,Morales
+47731246,Margarita Praxedes
+47731247,María Egúsquiza de Gálvez
+47731248,Calle Diego Quispe Tito
+47731249,Juan Moore
+47731250,Calle Uno
+47731251,Pasaje Miramar
+47731252,Nueva
+47731253,Beatriz Cisneros
+47731259,Juana Riofrio
+47731260,María Escobar
+47731261,De Perez Liendo
+47731262,Correa
+47731263,Carolina Freire de Salmes
+47731266,M Gallagher de Parks
+47731268,Pedro Benvenutto Murrieta
+47731269,Luisa Dammert
+47822276,Avenida Andrés Razuri
+47822279,Henado de Magallanes
+47822307,Mario Valdivia
+47822392,Calle El Solitario de Sayán
+47822411,Calle José Gabriel Aguilar
+47823329,Jirón Manco Segundo
+47823671,Jirón Micaela Bastidas
+47823993,Jirón Rosa Merino
+47824302,Jirón Pascual de Andagoya
+47824422,Jirón Hernando de Magallanes
+47824568,Jirón Vilcahuaura
+47824963,Los Uros
+47825166,Totorales
+47826316,Pasaje Fatima
+47826493,Pasaje Santa María Reyna
+47827576,Calle Huamampoma de Ayala
+47827907,Jirón José Gabriel Aguilar
+47829147,Paititi
+47829153,Calle El Solitario de Sayán
+47829303,Jirón Rosa Merino
+47829315,Calle Gutiérrez Quintanilla
+47829370,Naylamp
+47829545,Pucala
+47829558,Calle Manco Segundo
+47830562,Chicama
+47831395,Jirón Vilcahuaura
+47831427,Calle de Pascual de Andagoya
+47831444,Paititi
+47834603,Calle Hermanos Catari
+47835000,Jirón Max Uhle
+47835015,Avenida Elmer Faucett
+47835017,Avenida Elmer Faucett
+47836771,Avenida de los Insurgentes
+48029122,Monsefu
+48029159,Lambayeque
+48029173,Jirón Chongoyape
+48029175,Patriotas
+48029186,Jirón Carlos Oquendo de Amat
+48029198,Calle Gonzales Prada
+48029199,Calle José Gabriel Aguilar
+48029200,Jirón El Solitario de Sayán
+48029232,Pasaje Los Canamelares
+48029234,Jirón Patapo
+48029237,Jirón Juan Parra del Riego
+48029238,Jirón Pomalca
+48029241,Calle César Atahualpa Rodríguez
+48030132,undefined
+48070967,Circuito de Playas
+48070971,Jirón Independencia
+48110648,Avenida La Marina
+48110649,Avenida Parque de las Leyendas
+48110650,undefined
+48110651,undefined
+49136170,undefined
+49136171,undefined
+49136172,Calle Mantaro
+49136174,undefined
+49136175,Avenida La Paz
+49291703,undefined
+49369823,Calle Amazonas
+49426555,Avenida La Marina
+49429083,Jirón Atahualpa
+49772115,Avenida El Pacífico
+49796871,San Jose
+50294693,Santa Isabel
+50294726,Santa Martha
+50295624,Santa Cecilia
+50296131,Juan Roberto Acevedo
+50296162,Jirón Mariscal Ramon Castilla
+50296503,Principe
+50299538,Coral
+50299687,Juan Valer Sandoval
+50300279,Daniel Hernandez
+50300515,Colmenares
+50300524,undefined
+50300593,undefined
+50300673,Ore
+50300766,Jirón Eleazar Blanco
+50301526,Antunez de Mayolo
+50301757,Herrera
+50301951,Salamanca
+50302021,Roberto Owen
+50302082,undefined
+50978179,Herrera
+50978240,San Lucas
+50978243,San Marcos
+50978248,San Marcos
+50978291,Santa Isabel
+50978300,undefined
+50978365,Willian King
+50978395,Podesta
+50978401,Kennedy
+50978402,Kennedy
+50978404,undefined
+50978417,Howard
+50978451,Molina
+50978469,Coricancha
+50978473,Calle Kenko
+50978476,Ollantay
+50978494,Calle Angela Podesta Peschiera
+50978497,Calle B
+50978520,Calle 2
+50978550,Diego de Medina
+50978551,Calle 7
+50978554,Meza
+50978671,undefined
+50978736,undefined
+50978739,Martin Oviedo
+50978743,Castilla
+50978744,Salas
+50978746,Noguera
+50978747,Zapata
+50978748,Gutierrez
+50978820,undefined
+50978859,Rio Chamaya
+50978860,Rio Ucayali
+50978862,Calle B
+50978869,undefined
+50979108,Monseñor Luis Lituna
+50979189,Calle Monseñor Fidel Tubino
+50979201,Calle Villar Córdova
+50979202,Jirón Cristóbal de Lozada y Puga
+50979208,Pablo Ramirez Taboada
+50979229,Jirón Josefina Ramos de Cox
+50979230,Calle Fidel Olivos Escudero
+51094428,Avenida Mariscal de la Mar
+51094572,Avenida de los Precursores
+51095264,Napo
+51095293,Rio Morona
+51095327,Putumayo
+51095370,Calle Teniente César Lopez Rojas
+51095491,Calle Capitán Alfredo Novoa Cava
+51095494,Rocovich
+51095495,Calle Intisuyo
+51769713,Alfredo Cardenas
+51769740,Robert Kennedy
+51769879,Avenida José Leguía y Meléndez
+51770125,Jose Lizier Terzi
+51770153,Unap
+51770193,Trompeteros
+51770218,Los Bambues
+51770245,Pavayacu
+51770299,Miguel de Arriago
+51770535,Chimu
+51770751,Nepena
+51771012,Fourier
+51867850,Jirón Intisuyo
+51868333,Mariano Valdárrago
+53718112,Jirón Los Cóndores
+53718113,Calle Cosme Bueno
+55489835,Arístides del Carpio Muñoz
+60093494,Avenida Rafael Escardo
+60104870,Avenida Elmer Faucett
+60104874,Calle Alfredo Icaza Contreras
+60104877,Calle Collasuyo
+60104883,Calle Huacarunco
+60104886,Calle Cayrucachi
+60104887,Calle Otorongo
+60104891,Calle Saycusca
+60104893,Astete
+60104894,Incahuasi
+60104897,Pasaje San Isidro
+60104898,Chinchaisuyo
+60104899,Calle Contisuyo
+60104902,Pumacurco
+60104905,Calle Chaquilchaca
+60104907,Calle Capitán Alfredo Novoa Cava
+60104908,Calle Juan Hoyle Palacios
+60104909,Calle Juan Enrique Valladares
+60104910,Reynafarje Hurtado
+60104913,M. Necochea
+60104915,Pasaje Los Cordeles
+60104917,Necochea
+60104918,Calle Las Américas
+60104919,Pedro Chamochumbi Aguirre
+60104920,Calle Casmiro Ulloa
+60104921,Calle Alberto Barton
+60104924,D. Nieto
+60104925,Jirón Hipólito Unanue
+60104927,Calle Julián Arce
+60104928,Calle Julio César Tello
+60104930,Calle Luis Aldana
+60104931,Calle Ernesto Odriozola
+60104936,Avenida Parque de las Leyendas
+60104937,Avenida Parque de las Leyendas
+60104938,Avenida Carlos Gonzalez
+60104948,Avenida Luis Banchero Rossi
+60104950,Martin de Murua
+60104951,Calle Fortunato Quezada
+60104952,Avenida Carlos Gonzalez
+62097542,Jirón Francisco Bolognesi
+65494651,Condesa de Chinchon
+73947622,Jirón Río Tambo
+73952080,Jirón Carlos Cueto Fernandini
+73952081,Pasaje Villanos
+73952084,Calle Luis Galv{an
+73952085,Pasaje Senda Dorada
+73952086,Calle José Antonio Encinas
+73952088,Pasaje El Carmen
+73952089,Avenida Astral
+73952094,Calle La Luz
+103067268,Avenida República de Venezuela
+103067272,Avenida República de Venezuela
+103067275,Avenida República de Venezuela
+103067278,Avenida República de Venezuela
+111879450,Juana Garcia
+111879869,undefined
+111880981,Pasaje Senda Blanca
+111882089,undefined
+111882152,Urbinas
+111882180,undefined
+111884095,undefined
+111884145,Jirón Teniente Enrique Palacios
+111884307,Calle Munaycenca
+111885016,undefined
+111886180,Calle Los Reyezuelos
+111887364,Calle Las Alondras
+111888420,Calle A
+111888624,Calle Juan de Betanzos
+111889112,Calle Julio Cesar Tello
+111889407,undefined
+111890182,undefined
+111893045,undefined
+111894688,Avenida La Marina
+111895251,Calle Ampay
+111895579,Calle Las Grullas
+111898408,Calle Puna
+111898735,undefined
+111899785,Calle Las Lilas
+111902909,Calle Ricardo Palma
+111904892,Calle Los Halcones
+111904979,Jirón Incahuasi
+111904993,undefined
+111905837,Calle Luis de la Cuba
+111907479,Teniente Diego Ferre
+111908953,undefined
+111909391,Calle Los Cisnes
+111909513,Calle Los Nogales
+111909562,Calle Isla de Corcovado
+111910583,undefined
+111911512,Calle Fermín Diez Canseco
+111911903,undefined
+111913908,undefined
+111914797,undefined
+111915622,undefined
+111916313,undefined
+111916610,Pasaje Los Pioneros
+111917774,Las Ponciana
+111920388,Calle Tiahuanaco
+111921302,Pasaje Canta Gallo
+111921801,undefined
+111923528,Avenida Santa Gertrudis
+111927279,undefined
+111927438,Pasaje De Las Casas
+111927499,Cardos
+111929190,Calle Condesa de lemos
+111933306,Calle Los Naranjos
+111934174,Calle 26 D
+111934585,undefined
+111934641,Luis Garcia Ruiz
+111937828,Calle Carlos Gonzales Posada
+111937846,undefined
+111939163,Calle Los Girasoles
+111940494,Las Rosas
+111941071,undefined
+111942045,Jirón Nevado Sara Sara
+111942520,Avenida Elmer Faucett
+111942660,undefined
+111945113,Calle Las Calandrias
+111946697,undefined
+111948499,Avenida Elmer Faucett
+111948954,Calle Carmenca
+111949944,Prolongación Víctor Raúl Haya de la Torre
+111951847,undefined
+111954550,Calle Lautaro
+111956845,Calle Los Tucanes
+111958744,Calle Renán Elías Olivera
+111960810,Calle Coronel Miguel Zamora
+111961734,Aduana
+111964183,Calle Pedro Canga Rodríguez
+111965721,Calle Manuel Raygada
+111965775,Calle Los Pelicanos
+111966860,Calle Los Zorzales
+111968383,Calle Pacamarca
+111969102,Avenida La Marina
+111969771,Condesa de Lemos
+111970388,undefined
+111970568,Calle Garcilazo de la Vega
+115410008,Santa Ana
+115410018,Jirón Leoncio Prado
+115659315,Prolongación Cuzco
+116473275,Calle José Gálvez
+116473279,Uzquil
+116473285,Salinas
+121023248,undefined
+121023249,República de Venezuela
+121023251,Calle Santa Nicerata
+121023253,Avenida República de Venezuela
+121102089,Calle 2
+122456924,Estocolmo
+123940816,Marinero Aparicio Robles
+125812115,Luis Agurto
+125812118,Juan Olaechea Arnao
+125947071,Aurelio García y García
+125947075,Dionisio Derteano
+125947080,Jirón Hortencia Zevallos
+125947086,Urubamba
+125947089,Francisco Moreyra y Riglos
+125947091,undefined
+125947093,Jirón Urubamba
+125947094,Manuel Moncloa y Cobarrubias
+125947097,Jose Melendez
+125947099,undefined
+126610712,Calle Los Zorzales
+126610713,Calle Las Gaviotas
+126610714,Ruiseñores
+126610715,Calle Los Mirlos
+126610718,Calle Los Avestruces
+126610721,Calle Los Oropéndolas
+126610722,Calle Las Golondrinas
+126610724,Los Pelicanos
+126610725,Calle Las Grullas
+126610727,Calle Las Garzas
+126610728,Calle Los Flamencos
+126614943,Calle 30 C
+126614946,Calle Pedro Peralta
+126614950,Calle Barranca
+126614953,Calle Toribio Zavala
+126614954,Calle Abel Galindez
+126616386,Calle Pacamarca
+126616389,Calle Pumacurco
+126616391,Calle Coropuna
+127348884,Calle Teniente Pedro Garezon
+127348888,Calle Los Rosales
+127348892,Calle Las Dalias
+127348917,Calle Los Pinos
+127348922,Jirón Los Cedros
+127348925,Las Acacias
+127348927,Calle Los Eucaliptos
+127348930,Jirón Los Cedros
+127348936,Las Retamas
+127348941,Los Alamos
+127348954,Pasaje Santa Rosa
+127348968,undefined
+127348972,Calle Los Pensamientos
+127348977,Las Casuarinas
+127348984,Los Helechos
+127348987,Calle Cantuya
+131948283,Avenida Jose Santos Chocano
+132028586,Aurelio García y García
+134147616,Los Gorriones
+149509214,Calle 11
+150512219,Jirón Santa Jacinta
+171979332,Ausangate
+171979333,Calle Cumbe
+171979334,Calle Pumacurco
+171979335,Collagate
+171979336,Sergio Bernales
+171979337,Cayetano Heredia
+171979338,Carlos Vilarán
+171979339,Jíron Ricardo Pazos Varela
+172370401,Capirona
+172370405,Jirón Santa Cristina
+172370408,Jirón Santa Martina
+172370409,Calle Santa Prisca
+172370413,Jirón Santa Honorata
+172564452,Jirón Los Cedros
+172564453,Pasaje Los Helechos
+172601643,Capitan Alfredo Novoa Cava
+172601644,M. Cortez
+172601645,Juan Hoyle P.
+172756247,Calle Santa Bernardita
+172756255,Santa Domitila
+172756256,Santa Eduviges
+172756257,Calle Santa Brigida
+172756258,Calle Santa Sofia
+172756261,Calle Santa Rosalia
+172756262,Calle Santa Natalia
+172757356,Santa Susana
+173376237,Vidal
+173382662,Avenida del Pescador
+173382671,Avenida Víctor Raúl Haya de la Torre
+173519766,Auxiliar Avenida República de Venezuela
+173525730,Avenida Elmer Faucett
+180521660,Calle Cesar Vallejo
+180521706,undefined
+180521766,Calle Los Faisanes
+189474759,Marte
+189477892,Calle Bezada
+194908059,Abraham Lincoln
+194908060,Jirón Abraham Lincoln
+194908063,undefined
+194908064,Pasaje Senda Verde
+194908069,undefined
+194933482,Pasaje Senda Las Estrellas
+194933483,Pasaje María Cabrejos
+194933484,Pasaje Senda Celeste
+194933485,Pasaje Senda Claridad
+194933486,Pasaje Senda Relámpago
+194933487,Pasaje Senda Lucero
+195056958,Pasaje Arturo Revoredo
+195056965,Pasaje Senda Luna
+195531131,Colmenares
+195531137,Republica Arabe Unida
+195531139,Santa Elena
+195531140,Pedro Torres Malarin
+195531146,undefined
+197596814,undefined
+201423247,Calle Francisco de Orellana
+206592234,Calle Las Viñas
+206592754,Avenida Mariano Cornejo
+206595012,Calle Saycusca
+206596282,Machu Picchu
+206597871,Pasaje Los Cordeles
+206597872,Calle Los Suspiros
+206597897,undefined
+206598112,Calle Manuel Polo Jiménez
+206598330,Pasaje 1
+206598883,undefined
+206598885,Avenida del Pacifico
+206598886,Avenida del Pacifico
+206598887,undefined
+206599528,Chacabuco
+231327588,Avenida Universitaria
+238067280,Calle Boca del Río
+238266149,Santa Natalia
+238266151,Calle Santa Veronica
+238266152,Santa Barbara
+238267484,Avenida Santa Francisca Romana
+238267485,Santa Bernardita
+238267486,Santa Bernardita
+238267487,Santa Bernardita
+238267488,Santa Bernardita
+266746508,undefined
+266755451,Pasaje Santa María
+266755777,undefined
+266756859,De Perez Liendo
+266762341,José de la Riva Agüero
+267155345,Mariana Echevarria de Santiago
+267155346,Virginia Candamo de la Puente
+279252140,Jirón Tacna
+279252141,Avenida Universitaria
+279252143,Jirón Salaverry
+279252165,Avenida Costanera
+279630275,Avenida Víctor Raúl Haya de la Torre
+279630276,Avenida La Paz
+279649438,Avenida La Marina
+279649456,Avenida La Marina (auxiliar)
+279649462,Avenida Víctor Raúl Haya de la Torre
+279649468,Avenida Víctor Raúl Haya de la Torre
+279649472,Avenida La Marina
+279649480,Avenida de los Insurgentes
+279649482,Avenida Víctor Raúl Haya de la Torre
+279649487,Avenida de los Insurgentes
+279649489,Avenida La Marina (auxiliar)
+279857266,Avenida Faucett
+279876632,Avenida La Marina
+279876639,Avenida La Marina
+279893832,Avenida Antonio de Sucre
+279893836,Avenida Antonio de Sucre
+279893837,Avenida La Marina
+279893864,Diego Ferré
+279904193,Avenida Antonio de Sucre
+279904198,Avenida Antonio de Sucre
+279904206,Mazuelos
+280348395,Avenida La Marina (auxiliar)
+280348408,Calle Tiziano
+280348413,Calle Punta Lomitas
+280348414,Calle Mejía
+280348415,Calle Bilbao
+280541285,Calle Lizardo Montero
+280541287,Calle Punchauca
+280541301,Avenida de los Insurgentes
+280541304,Avenida República de Venezuela
+280541307,Avenida Juan Velasco Alvarado
+280541313,Calle 34 A
+280541325,Avenida del Pescador
+280541327,Calle 30B
+280541329,Avenida Juan Velasco Alvarado
+280541369,Avenida Juan Velasco Alvarado
+280541389,Calle Los Cedros
+280875658,Avenida Víctor Raúl Haya de la Torre
+280875673,Avenida El Pacífico
+280875696,Avenida Víctor Raúl Haya de la Torre
+280875708,Avenida La Paz
+280875715,Calle Maranga
+280875718,Avenida Libertad
+280875741,Avenida El Pacífico
+280875744,Avenida Víctor Raúl Haya de la Torre
+282058661,Avenida Antonio de Sucre
+282058667,Avenida Antonio de Sucre
+282552665,Avenida La Marina
+282552674,Avenida Costanera
+282552676,Avenida La Marina
+282552678,Avenida La Marina
+282559486,Avenida Costanera
+282564421,José de San Martín
+282564426,Calle José La Mar
+282564428,Avenida Lima
+282564441,Calle José La Mar
+282564443,Avenida Federico Gallese
+282564446,Jirón Independencia
+282564451,José de San Martín
+282564456,Avenida Tacna
+284892467,Jirón Grau
+284892469,Jirón Mariscal Ramón Castilla
+284892470,Jirón Mariscal Ramón Castilla
+284892473,Jirón Francisco Bolognesi
+284892474,Avenida Federico Gallese
+284892475,Avenida La Marina
+284892478,Jirón Mariscal Ramon Castilla
+284892479,Avenida Tacna
+285017672,Avenida Universitaria
+285017673,Avenida Universitaria
+285017675,Avenida La Marina
+285017679,Avenida La Marina
+285035078,Avenida La Paz
+295320225,Circuito de Playas
+295320841,Circuito de Playas
+295445078,undefined
+295445079,Avenida Universitaria
+295445096,undefined
+295445097,Avenida Universitaria
+295445098,Avenida Universitaria
+298464087,Circuito de Playas
+298464178,Pasaje Los Nardos
+298464179,Pasaje Los Jazmines
+298464180,Pasaje Los Lirios
+298464181,Pasaje Las Palmeras
+298464182,Alfonso Ugarte
+307668072,Jirón Libertad
+307668073,Jose Inclan
+312316747,Avenida La Paz
+313778846,Jirón Cabo Gutarra
+314122425,Avenida La Marina
+314122430,Avenida Costanera
+314122431,Avenida Víctor Raúl Haya de la Torre
+314302006,Avenida La Paz
+314358357,Jirón Independencia
+314541187,Ovalo Independencia
+314541191,Avenida La Paz
+314735728,Prolongación Cuzco
+314735729,Jirón Independencia
+314735737,Prolongación Cuzco
+314735742,Jirón Leoncio Prado
+314735743,Jirón Grau
+314735745,Jirón Leoncio Prado
+314735746,Prolongación Cuzco
+314735747,Jirón Independencia
+314735749,Avenida Universitaria
+315236389,Avenida La Paz
+315475409,28 de Julio
+315551565,Calle Huamampoma de Ayala
+317137451,Santa Rosa
+317212940,Avenida Universitaria
+317212948,Avenida Manuel Cipriano Dulanto
+317315331,Avenida Simon Bolivar
+319794443,Avenida de los Insurgentes
+320249059,Avenida Manuel Cipriano Dulanto
+320249071,Avenida Simon Bolivar
+320249074,Avenida Universitaria
+321074640,Avenida Mariscal de la Mar
+321074643,Avenida Mariscal de la Mar
+321074645,Avenida La Marina
+321074646,Avenida Universitaria
+321074647,Avenida El Pacífico
+321074651,Avenida Universitaria
+321074657,José de la Riva Agüero
+321074659,Avenida Víctor Raúl Haya de la Torre
+321074661,Avenida Jóse de la Riva Agüero
+321508043,Alfonso Ugarte
+321508046,Jirón Mariscal Ramon Castilla
+321508047,Jirón Mariscal Ramon Castilla
+321508049,Jirón Tacna
+321508051,Jirón Grau
+321508052,Jirón Salaverry
+321508053,Jirón Tacna
+321508054,Alfonso Ugarte
+321544176,Jirón Libertad
+321544181,Avenida La Paz
+321544182,Jirón Libertad
+321544183,Calle Echenique
+321544198,Calle Carlos Bondy
+321564142,Avenida Universitaria
+321564215,República de Venezuela
+321564216,Avenida República de Venezuela
+321564318,Avenida Elmer Faucett
+321564320,Avenida República de Venezuela
+323127499,Avenida El Pacífico
+323127500,Avenida Víctor Raúl Haya de la Torre
+323136850,Avenida La Marina
+323140162,Avenida Mariscal de la Mar
+323140163,Avenida Jóse de la Riva Agüero
+323140715,Avenida Universitaria
+323140716,Avenida Manuel Cipriano Dulanto
+323142897,República de Venezuela
+324770615,Avenida República de Venezuela
+324770616,Avenida de los Insurgentes
+324896396,Avenida República de Venezuela
+325333180,Calle Paiján
+325446447,Avenida La Marina
+326095041,Jirón Francisco Bolognesi
+326095042,Jirón Leoncio Prado
+326095434,Jirón Leoncio Prado
+326095437,Lopez de Solis
+326408944,Avenida República de Venezuela
+326460383,José de la Riva Agüero
+326460384,Prolongación Lima
+326463717,Avenida Antonio de Sucre
+326463869,Jirón Junín
+326552130,Mazuelos
+326552131,Jirón Mariscal Ramon Castilla
+326567244,Avenida La Libertad
+326567247,José de la Riva Agüero
+326568718,Jirón Independencia
+326821212,Avenida Antonio de Sucre
+326821213,Avenida La Marina
+327261831,Avenida Universitaria
+327261878,Avenida Universitaria
+327261898,Avenida La Marina
+327261960,Avenida La Marina
+327261961,Calle B
+327301830,Avenida Los Patriotas
+327301831,Avenida de los Insurgentes
+327302411,Avenida Los Patriotas
+327302801,Avenida Andrés Razuri
+327302802,Avenida Los Patriotas
+327302935,Jirón Libertad
+327303085,Jirón Libertad
+327303523,Calle Gamarra
+327303527,Avenida La Paz
+327861773,Avenida República de Venezuela
+328259442,Punta Pariñas
+328772905,Avenida La Marina
+328773040,Avenida Universitaria
+328773588,Avenida Universitaria
+330185903,undefined
+330186227,Avenida de los Insurgentes
+330262780,Prolongación Ayacucho
+330262781,Avenida Universitaria
+330931327,Avenida Universitaria
+330945015,Jirón Francisco Bolognesi
+330945016,Jirón Tacna
+330946126,Jirón Salaverry
+331313279,Avenida de los Insurgentes
+331313285,Avenida La Marina
+331401809,Avenida Mariano Cornejo
+331401810,Avenida Universitaria
+331427210,Jirón Independencia
+335066193,Avenida Rafael Escardo
+335066194,Avenida de los Precursores
+335526732,República de Venezuela
+335526733,Avenida Universitaria
+335526735,Avenida Universitaria
+335945408,Avenida Elmer Faucett
+335945409,Avenida República de Venezuela
+336866625,Jirón Miguel de Echenique
+336866627,Jirón Francisco Bolognesi
+336866628,Jirón Miguel de Echenique
+336932916,Avenida La Paz
+336932917,Nicolás de Piérola
+337309173,Jirón Grau
+337311829,Jirón Mariscal Ramon Castilla
+337311831,Comandante Ladislao Espinar
+337311833,Avenida La Paz
+337311835,Comandante Ladislao Espinar
+338241852,Avenida La Marina
+338241854,Mazuelos
+338241855,Jirón Tacna
+338248421,Avenida República de Venezuela
+338278257,Avenida Antonio de Sucre
+338419801,Avenida Alejandro Bertello
+338763552,Avenida República de Venezuela
+338763553,Avenida de los Insurgentes
+338763554,Avenida Manuel Cipriano Dulanto
+338763556,Jirón Libertad
+338763559,Avenida Parque de las Leyendas
+338763561,Jirón Libertad
+339041487,Avenida Jóse de la Riva Agüero
+339372366,Avenida La Marina
+342137540,Avenida de los Precursores
+342137541,Avenida Elmer Faucett
+342535342,Avenida del Pacifico
+342535421,Padre Urraca
+344526721,Avenida La Paz
+353985474,Avenida del Pacifico
+363094261,Avenida República de Venezuela
+367020847,Avenida Universitaria
+368627299,Avenida Universitaria
+368627301,Avenida Lima
+370644930,Avenida Rafael Escardo
+370644931,Avenida Rafael Escardo
+370644932,Avenida Rafael Escardo
+370644937,Avenida de los Insurgentes
+377874152,undefined
+377876921,undefined
+377877428,Avenida Elmer Faucett
+382297982,Calle Las Tipas
+393067872,undefined
+393072691,undefined
+393072694,undefined
+393073637,undefined
+393073639,undefined
+393073640,undefined
+393077220,undefined
+393077221,Avenida Elmer Faucett
+393077372,Avenida Elmer Faucett
+398849878,undefined
+398849882,undefined
+398849883,Auxiliar Avenida República de Venezuela
+398849886,undefined
+398849888,Auxiliar Avenida República de Venezuela
+401780804,undefined
+401780806,undefined
+401780810,Avenida La Marina
+401780811,Avenida La Marina
+401782066,undefined
+401810312,Avenida República de Venezuela
+401810313,undefined
+401810314,Avenida República de Venezuela
+401810315,Avenida Víctor Raúl Haya de la Torre
+408906845,Avenida Universitaria
+408906848,Avenida Universitaria
+412513429,Avenida Jóse de la Riva Agüero
+412564192,undefined
+412573936,undefined
+412574022,Jirón 28 de Julio
+413045253,Prolongación Manco Segundo
+413045254,Avenida Brigida Silva de Ochoa
+414739446,Avenida La Paz
+414739762,undefined
+416469261,Calle Miramar
+416469283,Juan Moore
+417317743,undefined
+417386704,Calle Canamelares
+418669766,Virginia Candamo de la Fuente
+420067607,Calle Las Águilas
+420067609,Avenida República de Venezuela
+420067610,Avenida República de Venezuela
+420067611,Avenida República de Venezuela
+420067612,Avenida República de Venezuela
+422267977,B. San Nicolás
+422441693,undefined
+422441710,undefined
+422488922,Calle 30B
+422748249,Avenida Elmer Faucett
+422751151,Avenida Costanera
+422751153,Avenida Costanera
+422751154,Avenida Costanera
+422751155,Avenida Costanera
+422751156,Avenida Costanera
+422751163,Calle Huamachuco
+423724203,Pasaje Carlos Loayza
+426900487,Puquina
+426912506,Aricota
+426912507,undefined
+426912508,undefined
+426912509,undefined
+427080945,Calle 26A
+427627421,Calle Las Águilas
+427627422,Calle Los Halcones
+427627423,Calle Los Olivos
+427627424,Calle Madreselvas
+427640008,Calle Chepan
+427640014,Calle San Fernando
+427640016,Isla Mazorca
+427640017,Pasaje Bayobar
+427640019,undefined
+427645919,Avenida Costanera
+427645920,Calle Emancipación
+427656026,Jirón Mariscal Ramon Castilla
+427656027,Jirón Mariscal Antonio José de Sucre
+427656028,Jirón J. de Sucre
+427671035,Jirón Mariscal Ramón Castilla
+427689073,Jirón Libertad
+427689080,Avenida La Paz
+427689085,Calle Carlos Augusto Salaverry
+427691130,Avenida Elmer Faucett
+427693906,Prolongación Ayacucho
+427693908,Prolongación Ayacucho
+427693909,Calle Las Águilas
+427693911,Fortunato Quezada
+427693912,Fortunato Quezada
+427693915,Calle Francisca Zubiaga
+427693918,Calle Caminos del Inca
+427693919,Jirón Los Cedros
+427693921,Calle Mollocmarca
+427693922,Puquina
+427696001,Jirón Los Mochicas
+427696002,Avenida Parque de las Leyendas
+427696005,Pasaje Tungasuca
+427697870,Jirón Francisco Bolognesi
+427697871,Puga de Lozada
+427876352,Calle Kenko
+427876353,Calle Kenko
+427876355,Ciro Alegria
+427876356,Ciro Alegria
+427876360,Morales
+427876361,Podesta
+427876362,Salamanca
+427876363,Santa Isabel
+427876364,Santa Isabel
+427885464,Salamanca
+427885465,San Marcos
+427887739,Diego de Medina
+427887740,Paracas
+427887741,Pedro Benvenutto Murrieta
+427887742,Podesta
+427887905,Jirón Río Tambo
+427888057,M. Raygada
+427888315,Avenida Monseñor Jorge Dintilhac
+427888340,Pasaje Las Fresas
+427889349,Los Alamos
+427889350,undefined
+427900366,undefined
+427903895,Domingo Astete y Moscoso
+430049955,José de la Riva Agüero
+430445304,Jirón Amazonas
+430445305,Jirón Simón Bolívar
+430445306,Jirón Miguel de Echenique
+430445308,Jirón Independencia
+430445309,José de San Martín
+430445310,Jirón Huamanga
+430445312,Jirón Amazonas
+430445315,José de San Martín
+430445316,Trinidad Enriquez
+430445317,Moyopampa
+431591409,Huandoy
+431591411,Mariano Valdárrago
+434446530,Bahia de la Independecia
+434446532,undefined
+434469950,Calle 47 D
+434469961,undefined
+434469964,undefined
+435174064,Circuito de Playas
+435174065,Circuito de Playas
+435180103,Calle de Andrés Castelo
+435180104,Calle Las Tunas
+435185632,undefined
+435185633,undefined
+435188007,Morales
+435188012,Avenida Brigida Silva de Ochoa
+435188014,Brigida Silva de Ochoa
+435189359,Avenida Elmer Faucett
+435189361,Avenida Elmer Faucett
+435195514,Auxiliar Avenida República de Venezuela
+435195515,Auxiliar Avenida República de Venezuela
+435195516,Avenida Elmer Faucett
+435197699,undefined
+435197700,Avenida República de Venezuela
+435197701,undefined
+435199270,undefined
+435215125,Avenida Universitaria
+435241608,undefined
+435241609,undefined
+435241610,Circuito de Playas
+435241611,Circuito de Playas
+435245954,Avenida Costanera
+435247350,Avenida Costanera
+435247351,Avenida Costanera
+435252841,undefined
+435252842,undefined
+435252843,undefined
+435252844,undefined
+435323780,undefined
+435323782,undefined
+435326243,undefined
+435326244,Avenida Universitaria
+435327940,Santa Bernardita
+435327941,Santa Bernardita
+435340539,Avenida Mariano Cornejo
+435340540,Avenida Mariano Cornejo
+435341398,undefined
+435344648,Avenida República de Venezuela
+435348569,Avenida de los Precursores
+435348570,Avenida de los Insurgentes
+435348571,Avenida de los Precursores
+435348572,undefined
+435348574,Avenida de los Insurgentes
+435353190,undefined
+435357350,Avenida Elmer Faucett
+435358544,Avenida Costanera
+435365035,Avenida República de Venezuela
+435365036,Auxiliar Avenida República de Venezuela
+435368123,Avenida República de Venezuela
+435370234,Calle Las Águilas
+435370235,undefined
+435493750,Jirón José Gálvez
+435505497,Avenida Manuel Cipriano Dulanto
+435722573,Avenida Mariano Cornejo
+435722574,Avenida Santa Gertrudis
+435827517,Avenida Simon Bolivar
+435833286,undefined
+435833287,undefined
+435840713,undefined
+435846312,undefined
+435846315,undefined
+435846318,undefined
+435846320,undefined
+435846323,Avenida Víctor Raúl Haya de la Torre
+435846332,Avenida La Marina
+435846335,Avenida Víctor Raúl Haya de la Torre
+435846338,Avenida La Marina
+435866944,Avenida Elmer Faucett
+435867310,undefined
+435868242,undefined
+435874126,Avenida La Marina (auxiliar)
+435876436,Avenida Víctor Raúl Haya de la Torre
+435878176,undefined
+435879361,Avenida La Paz
+435879641,undefined
+435879642,undefined
+435890770,Avenida del Pescador
+435890771,Avenida Víctor Raúl Haya de la Torre
+435890773,Calle Gritos de Huaura
+435890774,Jirón Libertad
+436250130,Avenida Rafael Escardo
+436250131,Avenida Rafael Escardo
+436250132,Avenida Rafael Escardo
+436251100,Avenida Elmer Faucett
+436257488,Avenida Elmer Faucett
+436259985,undefined
+436259987,undefined
+436259992,Avenida Elmer Faucett
+436286429,Avenida La Marina (auxiliar)
+436287553,Jirón Arequipa
+436306204,Avenida del Pescador
+436313734,Jirón Miguel de Unamuno
+436313741,Martinez
+436313742,Jirón Camino de Inca
+436435520,Prolongación Ayacucho
+436435533,Jirón J. de Sucre
+436448705,Barbara Alcazar
+436451707,Molina
+436453483,undefined
+436453707,Brigida Silva de Ochoa
+436457594,Avenida La Marina
+436591884,Jose Medina
+436591885,Jirón Jorge Castro Harrinson
+436591886,Jirón J. de Sucre
+436591887,Prolongación Cuzco
+436591888,José de San Martín
+436591889,Santa Ana
+436591890,Santa Ana
+436591891,Prolongación Ayacucho
+436591892,Avenida Arica
+436591893,Alfonso Ugarte
+436591894,Avenida Tacna
+436591895,Alfonso Ugarte
+436591896,Avenida Lima
+436591897,Alameda Julio C. Tello
+436787813,José de la Riva Agüero
+436787814,undefined
+436787815,undefined
+436787816,José de la Riva Agüero
+436789524,undefined
+436789525,undefined
+436789526,undefined
+436793826,undefined
+436795392,undefined
+436797546,undefined
+436797547,Paris
+436797548,undefined
+436889270,Cesar Lopez Rojas
+436891048,Avenida Jorge Dintilhac
+436899920,undefined
+436899921,Auxiliar Avenida República de Venezuela
+436930108,Avenida La Marina
+436930112,Avenida La Marina
+437467233,Avenida La Marina
+441082654,Jirón Juan Parra del Riego
+442973761,undefined
+442975138,undefined
+442975139,Martin Oviedo
+442975348,Calle Cipreses
+442978773,undefined
+442978774,undefined
+443854161,Avenida República de Venezuela
+444924662,Calle del Pacifico
+445541165,undefined
+445541169,Nueva
+445541170,Circuito de Playas
+445541171,Circuito de Playas
+446362317,Jirón Chongoyape
+446547703,undefined
+446686752,Calle Islas Java
+446688452,undefined
+446688453,Calle Ilave
+458200705,Avenida Universitaria
+459473960,Santa Ana
+459613596,Avenida República de Venezuela
+459613599,Avenida República de Venezuela
+460360116,Calle Bezada
+460360143,Calle Santa Nicerata
+460365483,Avenida República de Venezuela
+460365484,undefined
+480883014,undefined
+480883015,undefined
+493510581,Avenida La Marina
+493510582,Avenida La Marina
+493510587,Avenida La Marina
+493510591,Avenida La Marina
+493510593,Avenida La Marina
+493510595,Avenida La Marina
+493510599,Avenida La Marina
+493510604,Avenida La Marina
+517432324,Circuito de Playas
+517472449,undefined
+517486007,undefined
+517491478,undefined
+517796560,Padre Urraca
+521126547,undefined
+521126550,undefined
+558065806,Calle Las Orquídeas
+558065807,Calle Las Magnolias
+558065808,Calle Los Azahares
+558065813,undefined
+558065815,Calle los Rosales
+559146662,Calle Villac Umo
+559188440,undefined
+559188445,José de San Martín
+559784758,Jirón Ezequiel Ossio Peñaranda
+563956658,Pasaje Senda El Sol
+563956662,Los Girasoles de Pando
+563956663,Calle Los Sauces
+563956665,Calle Los Tordos
+564376534,undefined
+564376547,undefined
+564376548,undefined
+564376549,undefined
+566801759,Calle Pacamarca
+568378245,Avenida República de Venezuela
+569265596,Calle Puerto Viejo
+569265598,undefined
+569265600,Calle Otorongo
+572193826,Calle Intisuyo
+572193827,Pasaje Los Cordeles
+572193828,Calle Los Suspiros
+572193829,Calle Juan Enrique Valladares
+572193830,Pasaje Punta Brava
+572201916,Jirón Santa Faustina
+578560947,Calle 2 de Mayo
+578568150,Jirón Los Pinos
+578568152,Jirón Los Pinos
+578568153,undefined
+578568156,Jirón Santa Aurelia
+582948887,undefined
+583363648,Circuito de Playas
+587941228,undefined
+587941229,undefined
+587941230,undefined
+587941232,undefined
+587941234,undefined
+587941235,undefined
+587941236,undefined
+587941240,Cardos
+603162566,Calle Tacna
+603475556,undefined
+603475557,undefined
+603475558,Monseñor Luis Lituna
+603475559,undefined
+603475560,undefined
+603475561,Avenida Parque de las Leyendas
+603475562,undefined
+603480106,undefined
+603480107,undefined
+603488656,undefined
+603488657,Auxiliar Avenida República de Venezuela
+603488658,Auxiliar Avenida República de Venezuela
+603491026,undefined
+603491027,undefined
+605780091,Calle Isidrio Suarez
+606767372,Padre Urraca
+615356340,undefined
+615356343,Avenida de los Precursores
+615356348,Fortunato Quezada
+616000216,undefined
+616000217,undefined
+616176993,undefined
+628135188,undefined
+629365675,undefined
+637314444,Calle Los Tulipanes
+637955033,Avenida La Marina
+651377168,Padre Urraca
+651394051,undefined
+654057974,Avenida Los Patriotas
+654064316,undefined
+654075896,Encinas
+654348083,undefined
+659947531,undefined
+666346597,undefined
+666346598,undefined
+669689931,Avenida La Marina
+669689932,Avenida La Marina
+670342427,Avenida Elmer Faucett
+670342880,undefined
+671765944,undefined
+673026608,undefined
+673038262,undefined
+676962214,undefined
+681256902,undefined
+692000993,Padre Urraca
+693416250,Calle José Gabriel Aguilar
+704649140,undefined
+749353170,Avenida Parque de las Leyendas
+749644438,Jirón Mariscal Ramon Castilla
+749644439,Jirón Mariscal Ramon Castilla
+754767735,undefined
+757062702,Pedro Torres Malarin
+757062713,Daniel Hernandez
+757062881,Herrera
+757062882,Herrera
+757066047,Brigida Silva de Ochoa
+757066048,Avenida Brigida Silva de Ochoa
+757067077,Avenida Faucett
+757067078,Avenida Faucett
+757087061,Juan Balcarza
+757087062,undefined
+762311885,Los Helechos
+762930177,Jirón 28 de Julio
+769437131,Jirón Río Tambo
+771689951,Francisco Moreyra y Riglos
+776625836,María José de Arce
+784068021,Avenida Elmer Faucett
+784068025,Avenida Elmer Faucett
+827913588,Jirón José Cuauthemoc
+834767701,Circuito de Playas
+834767702,Circuito de Playas
+834767703,Circuito de Playas
+834767704,Circuito de Playas
+834767705,Calle Gamarra
+834767706,Calle Gamarra
+834767707,undefined
+834767719,Circuito de Playas
+834767720,Circuito de Playas
+834767721,Circuito de Playas
+834767722,Circuito de Playas
+834767723,Circuito de Playas
+834767724,Circuito de Playas
+834767726,Circuito de Playas
+834767727,Circuito de Playas
+834793811,Avenida Costanera
+834794998,Avenida Costanera
+834794999,Avenida Costanera
+834815555,Avenida Costanera
+840656987,undefined
+862520284,undefined
+862520285,undefined
+862522464,undefined
+862522465,undefined
+866143537,Pasaje Simón Bolívar
+875301191,Jirón Mariscal Ramon Castilla
+875868387,Calle Elias Chunga Zapata
+885525657,undefined
+885525658,undefined
+885525659,undefined
+885525660,undefined
+890895756,Circuito de Playas
+891957175,Avenida La Marina
+892431508,Avenida La Marina
+892431509,Juan Valer Sandoval
+892431510,Avenida La Marina
+892584369,Avenida Universitaria
+892584370,Avenida Universitaria
+892588927,Avenida Universitaria
+892588928,Avenida Mariano Cornejo
+892907070,Avenida Rafael Escardo
+892907071,Avenida La Marina
+892907072,Avenida La Marina
+892910462,Avenida La Marina
+892910463,Avenida Antonio de Sucre
+892910464,Avenida La Marina
+892910465,Avenida Antonio de Sucre
+892928704,Avenida de los Insurgentes
+892993803,Avenida Mariano Cornejo
+892993804,Avenida Santa Gertrudis
+892993805,Avenida Santa Gertrudis
+892993806,Avenida Mariano Cornejo
+892993807,Avenida Mariano Cornejo
+893020422,Avenida República de Venezuela
+893020423,Avenida República de Venezuela
+893020424,Avenida República de Venezuela
+893020425,Avenida Elmer Faucett
+905925503,Mama Runter
+905925505,Avenida Antonio de Sucre
+934798565,Avenida Jorge Dintilhac
+938212245,Prolongación Ayacucho
+938212246,Jirón Mariscal Ramón Castilla
+938212247,Prolongación Ayacucho
+938212938,Calle Fortunato Quezada
+938213869,Avenida Parque de las Leyendas
+947596021,Calle Alameda Zenti
+947600194,Pasaje Senda Violeta
+948875438,Avenida Universitaria
+948875439,República de Venezuela
+948877935,Avenida Parque de las Leyendas
+948877936,Avenida Mariscal de la Mar
+949000552,Pasaje 3
+949000553,Pasaje 2
+950307078,Pasaje Los Claveles
+951287063,Pasaje Las Violetas
+951287064,Pasaje Las Rosas
+955198956,Calle Laredo
+959018508,Calle Santa Nicerata
+959650448,Calle Vinzos
+960699628,undefined
+960857120,undefined
+960857121,Calle Coricancha
+960857122,undefined
+960857123,undefined
+962780272,Avenida La Marina
+962780273,Avenida Universitaria
+966858334,Punta Malpelo
+969288495,Avenida Mariscal de la Mar
+969288496,Avenida Monseñor Jorge Dintilhac
+975724475,Avenida La Marina
+988173490,undefined
+989275187,Bahía Matarani
+992989903,undefined
+998674013,Willian King
+1006860009,Avenida Universitaria
+1006860010,Avenida Universitaria
+1009348245,Rio Ucayali
+1009348262,Avenida Universitaria
+1009348263,undefined
+1011127113,Avenida Mariscal de la Mar
+1018156622,Avenida Simon Bolivar
+1020725917,undefined
+1020725925,undefined
+1020996679,undefined
+1023690557,Avenida Faucett
+1024600555,Avenida de los Precursores
+1024600556,undefined
+1024600557,undefined
+1024600558,undefined
+1024600559,Avenida de los Precursores
+1025935730,Avenida Elmer Faucett
+1029115161,La Sevillana
+1029115163,La Madrileña
+1029115164,La Madrileña
+1029115165,La Sevillana
+1029354940,París
+1029354941,Montecarlo
+1033371636,Costa Verde
+1033371637,Costa Verde
+1040390025,Avenida Universitaria
+1042773017,Avenida Brigida Silva de Ochoa
+1050738547,Avenida La Paz
