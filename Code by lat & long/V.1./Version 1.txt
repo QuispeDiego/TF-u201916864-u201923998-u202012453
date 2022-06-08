@@ -1,0 +1,1 @@
+En esta version se encontraron bugs al momento de implementar la funcion generadora.
