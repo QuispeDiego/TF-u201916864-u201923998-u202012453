@@ -9,7 +9,12 @@
 | Diego Eloy Quispe Palacin    | U202012453|
 
 ## Resumen 
-in work
+Trabajo final del curso de Complejidad algoritmica
+utilizando grafos y algoritmos de busqueda
+Dijkstra
+Prim
+BFS
+Ds
 
 ## Objetivos
 
