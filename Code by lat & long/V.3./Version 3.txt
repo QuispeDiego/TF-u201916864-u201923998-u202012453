@@ -1,1 +1,0 @@
-En esta version finalmente se pudo obtener los datos tanto de nodo, como los requeridos que son latitud y longitud.
