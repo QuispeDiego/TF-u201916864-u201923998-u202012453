@@ -6,6 +6,9 @@ from sqlalchemy import false, true
 from node import Node
 from node import Data
 from math import radians, cos, sin, asin, sqrt
+import heapq as hq
+import numpy as np
+import math
 def distance(lat1, lat2, lon1, lon2):
 
     # The math module contains a function named
@@ -85,6 +88,29 @@ with open("nodes.txt",encoding="cp437", errors='ignore') as f_obj:
 
 
 
+def dijkstra(G, s):
+  n = len(G)
+  visited = [False]*n
+  path = [-1]*n
+  cost = [math.inf]*n
+
+  cost[s] = 0
+  pqueue = [(0, s)]
+  while pqueue:
+    g, u = hq.heappop(pqueue)
+    if not visited[u]:
+      visited[u] = True
+      for v in G[u]:
+        if not visited[v.id]:
+          f = g + v.Data.trafficFactor
+          if f < cost[v.id]:
+            cost[v.id] = f
+            path[v.id] = u
+            hq.heappush(pqueue, (f, v.id))
+
+  return path, cost
+
+
 keepFirst=false
 ListAds=[]
 for i in range(7096):
@@ -107,4 +133,6 @@ for  _way in ways_connect_whith_nodes:
          keepFirst=true
 
 for i in ListAds[0]:
-        print(i.id)
+        print(i.Data.trafficInfo)
+path,cost=dijkstra(ListAds,0)        
+print(path)

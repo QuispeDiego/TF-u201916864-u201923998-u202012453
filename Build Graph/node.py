@@ -17,6 +17,9 @@ class Data:
     def getTrafficFactor(self):
         return self.trafficFactor
 
+    def getWay(self):
+     return self.way[0]    
+
 class Node:
     def __init__(self,id,Data):
         self.id=id
