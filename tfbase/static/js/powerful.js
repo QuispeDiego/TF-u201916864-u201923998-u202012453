@@ -1,3 +1,10 @@
+function capturarHora(){
+  var hora=document.getElementById("hour").value
+  alert(hora)
+  PrintGraph()
+}
+
+function PrintGraph(){
 (async function () {
   console.log("Toda la alegría del mundo.");
 
@@ -10,6 +17,7 @@
   const t = Math.floor(Math.random() * graph.g.length);
   const urlpaths = `paths/${s}/${t}`
   const paths = await d3.json(urlpaths);
+
 
   // config
 
@@ -105,5 +113,6 @@
   // Empezamos
 
 })();
+}
 
 /* vim: set tabstop=2:softtabstop=2:shiftwidth=2:noexpandtab */
