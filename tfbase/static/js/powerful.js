@@ -4,14 +4,15 @@
   // Data
   const urlgraph = "graph";
   const graph = await d3.json(urlgraph);
-
+  
   const s = Math.floor(Math.random() * graph.g.length);
   const t = Math.floor(Math.random() * graph.g.length);
   const urlpaths = `paths/${s}/${t}`
   const paths = await d3.json(urlpaths);
-
+  PrintGraph();
   // config
-
+  
+  function PrintGraph(){
   const margin = {
     top: 10,
     right: 10,
@@ -96,7 +97,7 @@
   ctx.fillRect(x(graph.loc[t]) - 5, y(graph.loc[t]) - 5, 10, 10)
   ctx.strokeStyle = "OrangeRed";
   ctx.strokeRect(x(graph.loc[t]) - 5, y(graph.loc[t]) - 5, 10, 10)
-
+  }
   // Funciones y eventos
 
   // Empezamos
