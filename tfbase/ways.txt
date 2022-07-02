@@ -1,0 +1,1621 @@
+0,Henado de Magallanes
+1,Avenida República de Venezuela
+2,Calle Gamarra
+3,Avenida La Libertad
+4,Avenida Víctor Raúl Haya de la Torre
+5,Avenida Víctor Raúl Haya de la Torre
+6,Avenida Juan Bertolotto
+7,Mariscal Caceres
+8,undefined
+9,Avenida Simon Bolivar
+10,Avenida Mariano Cornejo
+11,Avenida Mariano Cornejo
+12,Jirón San Martín
+13,Avenida Antonio de Sucre
+14,Avenida Antonio de Sucre
+15,Avenida Pio XII
+16,Avenida Pio XII
+17,Calle Gritos de Huaura
+18,Calle Punchauca
+19,Avenida de los Precursores
+20,Avenida Parque de las Leyendas
+21,Avenida Parque de las Leyendas
+22,Avenida Parque de las Leyendas
+23,Avenida Jorge Dintilhac
+24,undefined
+25,Jirón Carlos Bondy
+26,Diego Aguerodd
+27,Diego Quispe Tito
+28,Alfonso Ugarte
+29,Avenida Arica
+30,Comandante Ladislao Espinar
+31,Manuel Estacio
+32,Calle Los Eucaliptos
+33,Calle Los Amancaes
+34,Calle Los Robles
+35,Calle Las Tipas
+36,Calle Los Olivos
+37,Calle Madreselvas
+38,Calle Los Jazmines
+39,Calle Los Crisantemos
+40,Calle Las Cucardas
+41,Calle Las Dalias
+42,Calle Los Ficus
+43,Calle Los Sauces
+44,Avenida Juan Guillermo More
+45,undefined
+46,Calle Las Rosas
+47,Auxiliar Avenida República de Venezuela
+48,Calle Los Juncales
+49,Calle Los Carrizales
+50,Calle Los Chinchorros
+51,Calle Los Pinos
+52,Calle Los Alhelíes
+53,Calle 14
+54,Calle 26E
+55,Calle 30 D
+56,Calle 46
+57,Calle 49
+58,undefined
+59,undefined
+60,Calle 35 A
+61,undefined
+62,Calle 31 G
+63,Calle 29B
+64,Calle 30 A
+65,undefined
+66,undefined
+67,undefined
+68,Calle Elias Chunga Zapata
+69,Calle Mantaro
+70,Auxiliar Avenida República de Venezuela
+71,Calle Ricardo Palma
+72,Calle Jose Carlos Mariátegui
+73,Avenida La Paz
+74,Calle Paita
+75,Calle Lambayeque
+76,Avenida El Pacífico
+77,Calle Chimbote
+78,Calle Piura
+79,Calle Huascar
+80,Calle Ramón Zavala
+81,Calle Inca Roca
+82,Huamachuco
+83,Calle Ramón Zavala
+84,undefined
+85,Calle San Fernando
+86,Calle 29
+87,Calle Quirihuac
+88,Calle Coruña
+89,Calle Carlos Augusto Salaverry
+90,Calle Sinchi Roca
+91,Calle Ramón Zavala
+92,Calle Cahuide
+93,Calle Ascope
+94,Calle Ascope
+95,Calle Chepan
+96,Calle Moche
+97,Calle Chiclín
+98,Calle Paiján
+99,Calle Banchero
+100,Calle Huascar
+101,Calle H. Ferreyra Leon
+102,Calle Dulio Poggi
+103,Calle Emancipación
+104,Chepén
+105,Talambo
+106,undefined
+107,Calle 20A
+108,Calle 19
+109,Calle Maranga
+110,Aviación
+111,Calle de José Olaya
+112,Calle Echenique
+113,San Martín
+114,Calle Aragón
+115,Calle Valencia
+116,Calle Alipio Ponce
+117,Calle 9
+118,Calle Eloy Ureta
+119,Calle José del Carmen Marín
+120,Calle 9
+121,Calle Andalucía
+122,Calle Zaragoza
+123,Calle Madrid
+124,Calle 1
+125,Calle Cádiz
+126,undefined
+127,Calle Granada
+128,Calle Barcelona
+129,Calle César Vallejo
+130,Javier Heraud
+131,Calle Salaverry
+132,Valdelomar
+133,Amarillis
+134,Valdelomar
+135,undefined
+136,Javier Abril
+137,Peralta
+138,Calle Juan José Pardo
+139,Calle Tiburcio Rios
+140,Calle Tiburcio Rios
+141,Calle Calzado Peruano
+142,Calle Islas Ceilan
+143,Calle Punta Lomitas
+144,Calle Cumana
+145,Calle Federico Noguera
+146,Calle Jose Celendon Condestable
+147,Calle Tiburcio Rios
+148,Avenida Los Patriotas
+149,Avenida Los Patriotas
+150,Calle Islas Filipinas
+151,Calle Islas Canarias
+152,Calle Elias Chunga Zapata
+153,Calle Islas Sumatra
+154,Calle Islas Malvinas
+155,Calle Islas Azores
+156,Calle Islas Aleutianas
+157,Calle 52A
+158,Miguel Hidalgo
+159,Calle Paso de los Andes
+160,Capitán de Navío Emilio Carrillo
+161,La Apacheta
+162,Calle de José Martí
+163,Jirón Lautaro
+164,Puerta Halcones
+165,Jirón Lautaro
+166,Calle José María Morelos
+167,Guimaraes
+168,M. Falco
+169,Juan Balcarza
+170,B. San Juan
+171,B. Huarmey
+172,Taquitahuana
+173,Cuauthemoc
+174,Capitán Stiglish Álvarez
+175,Quiquijana
+176,Calle de José Martí
+177,Calle Ubinas
+178,Avenida Parque de las Leyendas
+179,Calle La Apacheta
+180,Calle Taquitahuana
+181,Añaquito
+182,Calle Nevado Chachani
+183,García y García
+184,Isla Mazorca
+185,Avenida Faucett
+186,Jirón Hernando de Soto
+187,Calle 4
+188,Calle de José Martí
+189,Calle Hatuey
+190,Calle Gonzalo Pizarro
+191,Calle Isla del Gallo
+192,Ramon Ponce
+193,Calle Hernán Cortez
+194,Calle Blasco Nuñez de Vela
+195,Capitán Manuel Ferreyros
+196,Bahía de Pisco
+197,Capitán Manuel Ferreyros
+198,Avenida Santa Mariana de Paredes
+199,Calle Santa Teodosia
+200,Calle Los Tulipanes
+201,Paracas
+202,Jirón Abraham Lincoln
+203,Avenida Alejandro Bertello
+204,Urubamba
+205,undefined
+206,Santa Bernardita
+207,Avenida Santa Gertrudis
+208,Santa Honorata
+209,Jirón Santa Florencia
+210,Calle Santa Sabina
+211,Calle Santa Teodosia
+212,Calle Santa Susana
+213,Calle Santa Paula
+214,Calle C
+215,Jirón Mariscal Ramón Castilla
+216,Puga de Lozada
+217,Los Cauchos
+218,Calle 2
+219,Calle Las Campanillas
+220,Las Chiras
+221,Mariana Echevarria de Santiago
+222,Calle Diego Quispe Tito
+223,undefined
+224,Avenida Rafael Escardo
+225,undefined
+226,Brigida Silva de Ochoa
+227,Brigida Silva de Ochoa
+228,Prolongación Ayacucho
+229,Jirón Cuzco
+230,Brigida Silva de Ochoa
+231,Calle Pedrerías
+232,Jirón Francisco Bolognesi
+233,José de San Martín
+234,Avenida Tacna
+235,Prolongación Lima
+236,Federico Gerdes
+237,Calle Carlos Pareja
+238,Alberto Arca Parro
+239,Calle Laura Rodriguez
+240,Rosendo Badani
+241,Calle El Solitario de Sayán
+242,Avenida Rafael Escardo
+243,Jirón Ayacucho
+244,Jirón Huamanga
+245,Jirón Amazonas
+246,Jirón Junín
+247,Jirón Arequipa
+248,Avenida Federico Gallese
+249,Jirón Comandante Espinar
+250,Calle Tacna
+251,Jirón Miguel de Echenique
+252,Diego Ferré
+253,Martin Luther King
+254,Salas
+255,Jirón Alfonso Ugarte
+256,Mama Runter
+257,Dianderas
+258,José Salas
+259,Perez Oblitas
+260,Esther Festini de Ramos
+261,Hermelinda Carrera
+262,Calle José La Mar
+263,Calle Parque Principal
+264,Miguel Grau
+265,undefined
+266,Udima
+267,Cañon del Pato
+268,Huinco
+269,Autisha
+270,Santa Ana
+271,Urabaín
+272,Marcapomacocha
+273,Yanacoto
+274,Gabriela Mistral
+275,Lope de Vega
+276,Copernico
+277,Calderon de la Barca
+278,Fray Luis de Leon
+279,Euripides
+280,Verne
+281,Martinez
+282,Ayarza
+283,Josefina Sanchez
+284,Calle Manuela Marticorena
+285,Trinidad Enriquez
+286,Pedro Benvenutto Murrieta
+287,Petronila Alvarez
+288,Pasaje San Juan de Dios
+289,Pagador
+290,Candelaria Garcia
+291,Calle Santa Justina
+292,Barbara Alcazar
+293,Calle San Bruno
+294,Pasaje San Juan Carlos
+295,Pasaje San Guido
+296,Umachiri
+297,Jirón Miguel de Unamuno
+298,Meliton Rodriguez
+299,Jose Medina
+300,General Dianderas
+301,Calle Gil Espino
+302,Jirón Camino de Inca
+303,Jirón Jorge Castro Harrinson
+304,Cacique Umachiri
+305,Bernardo Alcedo
+306,Pasaje Jorge Chavez
+307,Pasaje de Zela
+308,Ricardo Palma
+309,Nicolás de Piérola
+310,Francisco de Zela
+311,Jorge Chavez
+312,Calle Pascual de Andagoya
+313,Calle Los Chimus
+314,Calle Los Aymaras
+315,Quechuas
+316,Calle Lima
+317,Mochicas
+318,Calle Los Nazcas
+319,Calle Los Huancas
+320,Calle Los Yungas
+321,Jirón Manco Segundo
+322,Calle Tambo Huáscar
+323,Nazcas
+324,Calle Hermanos Catari
+325,Manuel Mesones Muro
+326,Calle José Gabriel Aguilar
+327,Maipu
+328,Carabobo
+329,Calle Maranga
+330,Julian Apaza
+331,Américo Vespucio
+332,Santos Atahualpa
+333,Puquina
+334,Coyaba
+335,Sor Edecia
+336,Jose Domingo Choquehuanca
+337,Guevara
+338,Padre Guatemala
+339,Ines Huaylas Yupanqui
+340,María José de Arce
+341,Pasaje Jose Liborno
+342,Padre Urraca
+343,Avenida La Marina
+344,Eugenio de la Torre
+345,Pasaje Tungasuca
+346,Dean Saavedra
+347,Ventura Callamaqui
+348,Calle Luis Miroquesada de Guerra
+349,Calle María Escobar
+350,Alberto Arca Parro
+351,Calle Mercedes Gallagher de Parks
+352,Pedro Benvenutto Murrieta
+353,Calle Cristóbal de Mena
+354,Calle Manrique de Luna
+355,A. Palma
+356,Morales
+357,Margarita Praxedes
+358,María Egúsquiza de Gálvez
+359,Calle Diego Quispe Tito
+360,Juan Moore
+361,Calle Uno
+362,Pasaje Miramar
+363,Nueva
+364,Beatriz Cisneros
+365,Juana Riofrio
+366,María Escobar
+367,De Perez Liendo
+368,Correa
+369,Carolina Freire de Salmes
+370,M Gallagher de Parks
+371,Pedro Benvenutto Murrieta
+372,Luisa Dammert
+373,Avenida Andrés Razuri
+374,Henado de Magallanes
+375,Mario Valdivia
+376,Calle El Solitario de Sayán
+377,Calle José Gabriel Aguilar
+378,Jirón Manco Segundo
+379,Jirón Micaela Bastidas
+380,Jirón Rosa Merino
+381,Jirón Pascual de Andagoya
+382,Jirón Hernando de Magallanes
+383,Jirón Vilcahuaura
+384,Los Uros
+385,Totorales
+386,Pasaje Fatima
+387,Pasaje Santa María Reyna
+388,Calle Huamampoma de Ayala
+389,Jirón José Gabriel Aguilar
+390,Paititi
+391,Calle El Solitario de Sayán
+392,Jirón Rosa Merino
+393,Calle Gutiérrez Quintanilla
+394,Naylamp
+395,Pucala
+396,Calle Manco Segundo
+397,Chicama
+398,Jirón Vilcahuaura
+399,Calle de Pascual de Andagoya
+400,Paititi
+401,Calle Hermanos Catari
+402,Jirón Max Uhle
+403,Avenida Elmer Faucett
+404,Avenida Elmer Faucett
+405,Avenida de los Insurgentes
+406,Monsefu
+407,Lambayeque
+408,Jirón Chongoyape
+409,Patriotas
+410,Jirón Carlos Oquendo de Amat
+411,Calle Gonzales Prada
+412,Calle José Gabriel Aguilar
+413,Jirón El Solitario de Sayán
+414,Pasaje Los Canamelares
+415,Jirón Patapo
+416,Jirón Juan Parra del Riego
+417,Jirón Pomalca
+418,Calle César Atahualpa Rodríguez
+419,undefined
+420,Circuito de Playas
+421,Jirón Independencia
+422,Avenida La Marina
+423,Avenida Parque de las Leyendas
+424,undefined
+425,undefined
+426,undefined
+427,undefined
+428,Calle Mantaro
+429,undefined
+430,Avenida La Paz
+431,undefined
+432,Calle Amazonas
+433,Avenida La Marina
+434,Jirón Atahualpa
+435,Avenida El Pacífico
+436,San Jose
+437,Santa Isabel
+438,Santa Martha
+439,Santa Cecilia
+440,Juan Roberto Acevedo
+441,Jirón Mariscal Ramon Castilla
+442,Principe
+443,Coral
+444,Juan Valer Sandoval
+445,Daniel Hernandez
+446,Colmenares
+447,undefined
+448,undefined
+449,Ore
+450,Jirón Eleazar Blanco
+451,Antunez de Mayolo
+452,Herrera
+453,Salamanca
+454,Roberto Owen
+455,undefined
+456,Herrera
+457,San Lucas
+458,San Marcos
+459,San Marcos
+460,Santa Isabel
+461,undefined
+462,Willian King
+463,Podesta
+464,Kennedy
+465,Kennedy
+466,undefined
+467,Howard
+468,Molina
+469,Coricancha
+470,Calle Kenko
+471,Ollantay
+472,Calle Angela Podesta Peschiera
+473,Calle B
+474,Calle 2
+475,Diego de Medina
+476,Calle 7
+477,Meza
+478,undefined
+479,undefined
+480,Martin Oviedo
+481,Castilla
+482,Salas
+483,Noguera
+484,Zapata
+485,Gutierrez
+486,undefined
+487,Rio Chamaya
+488,Rio Ucayali
+489,Calle B
+490,undefined
+491,Monseñor Luis Lituna
+492,Calle Monseñor Fidel Tubino
+493,Calle Villar Córdova
+494,Jirón Cristóbal de Lozada y Puga
+495,Pablo Ramirez Taboada
+496,Jirón Josefina Ramos de Cox
+497,Calle Fidel Olivos Escudero
+498,Avenida Mariscal de la Mar
+499,Avenida de los Precursores
+500,Napo
+501,Rio Morona
+502,Putumayo
+503,Calle Teniente César Lopez Rojas
+504,Calle Capitán Alfredo Novoa Cava
+505,Rocovich
+506,Calle Intisuyo
+507,Alfredo Cardenas
+508,Robert Kennedy
+509,Avenida José Leguía y Meléndez
+510,Jose Lizier Terzi
+511,Unap
+512,Trompeteros
+513,Los Bambues
+514,Pavayacu
+515,Miguel de Arriago
+516,Chimu
+517,Nepena
+518,Fourier
+519,Jirón Intisuyo
+520,Mariano Valdárrago
+521,Jirón Los Cóndores
+522,Calle Cosme Bueno
+523,Arístides del Carpio Muñoz
+524,Avenida Rafael Escardo
+525,Avenida Elmer Faucett
+526,Calle Alfredo Icaza Contreras
+527,Calle Collasuyo
+528,Calle Huacarunco
+529,Calle Cayrucachi
+530,Calle Otorongo
+531,Calle Saycusca
+532,Astete
+533,Incahuasi
+534,Pasaje San Isidro
+535,Chinchaisuyo
+536,Calle Contisuyo
+537,Pumacurco
+538,Calle Chaquilchaca
+539,Calle Capitán Alfredo Novoa Cava
+540,Calle Juan Hoyle Palacios
+541,Calle Juan Enrique Valladares
+542,Reynafarje Hurtado
+543,M. Necochea
+544,Pasaje Los Cordeles
+545,Necochea
+546,Calle Las Américas
+547,Pedro Chamochumbi Aguirre
+548,Calle Casmiro Ulloa
+549,Calle Alberto Barton
+550,D. Nieto
+551,Jirón Hipólito Unanue
+552,Calle Julián Arce
+553,Calle Julio César Tello
+554,Calle Luis Aldana
+555,Calle Ernesto Odriozola
+556,Avenida Parque de las Leyendas
+557,Avenida Parque de las Leyendas
+558,Avenida Carlos Gonzalez
+559,Avenida Luis Banchero Rossi
+560,Martin de Murua
+561,Calle Fortunato Quezada
+562,Avenida Carlos Gonzalez
+563,Jirón Francisco Bolognesi
+564,Condesa de Chinchon
+565,Jirón Río Tambo
+566,Jirón Carlos Cueto Fernandini
+567,Pasaje Villanos
+568,Calle Luis Galv{an
+569,Pasaje Senda Dorada
+570,Calle José Antonio Encinas
+571,Pasaje El Carmen
+572,Avenida Astral
+573,Calle La Luz
+574,Avenida República de Venezuela
+575,Avenida República de Venezuela
+576,Avenida República de Venezuela
+577,Avenida República de Venezuela
+578,Juana Garcia
+579,undefined
+580,Pasaje Senda Blanca
+581,undefined
+582,Urbinas
+583,undefined
+584,undefined
+585,Jirón Teniente Enrique Palacios
+586,Calle Munaycenca
+587,undefined
+588,Calle Los Reyezuelos
+589,Calle Las Alondras
+590,Calle A
+591,Calle Juan de Betanzos
+592,Calle Julio Cesar Tello
+593,undefined
+594,undefined
+595,undefined
+596,Avenida La Marina
+597,Calle Ampay
+598,Calle Las Grullas
+599,Calle Puna
+600,undefined
+601,Calle Las Lilas
+602,Calle Ricardo Palma
+603,Calle Los Halcones
+604,Jirón Incahuasi
+605,undefined
+606,Calle Luis de la Cuba
+607,Teniente Diego Ferre
+608,undefined
+609,Calle Los Cisnes
+610,Calle Los Nogales
+611,Calle Isla de Corcovado
+612,undefined
+613,Calle Fermín Diez Canseco
+614,undefined
+615,undefined
+616,undefined
+617,undefined
+618,undefined
+619,Pasaje Los Pioneros
+620,Las Ponciana
+621,Calle Tiahuanaco
+622,Pasaje Canta Gallo
+623,undefined
+624,Avenida Santa Gertrudis
+625,undefined
+626,Pasaje De Las Casas
+627,Cardos
+628,Calle Condesa de lemos
+629,Calle Los Naranjos
+630,Calle 26 D
+631,undefined
+632,Luis Garcia Ruiz
+633,Calle Carlos Gonzales Posada
+634,undefined
+635,Calle Los Girasoles
+636,Las Rosas
+637,undefined
+638,Jirón Nevado Sara Sara
+639,Avenida Elmer Faucett
+640,undefined
+641,Calle Las Calandrias
+642,undefined
+643,Avenida Elmer Faucett
+644,Calle Carmenca
+645,Prolongación Víctor Raúl Haya de la Torre
+646,undefined
+647,Calle Lautaro
+648,Calle Los Tucanes
+649,Calle Renán Elías Olivera
+650,Calle Coronel Miguel Zamora
+651,Aduana
+652,Calle Pedro Canga Rodríguez
+653,Calle Manuel Raygada
+654,Calle Los Pelicanos
+655,Calle Los Zorzales
+656,Calle Pacamarca
+657,Avenida La Marina
+658,Condesa de Lemos
+659,undefined
+660,Calle Garcilazo de la Vega
+661,Santa Ana
+662,Jirón Leoncio Prado
+663,Prolongación Cuzco
+664,Calle José Gálvez
+665,Uzquil
+666,Salinas
+667,undefined
+668,República de Venezuela
+669,Calle Santa Nicerata
+670,Avenida República de Venezuela
+671,Calle 2
+672,Estocolmo
+673,Marinero Aparicio Robles
+674,Luis Agurto
+675,Juan Olaechea Arnao
+676,Aurelio García y García
+677,Dionisio Derteano
+678,Jirón Hortencia Zevallos
+679,Urubamba
+680,Francisco Moreyra y Riglos
+681,undefined
+682,Jirón Urubamba
+683,Manuel Moncloa y Cobarrubias
+684,Jose Melendez
+685,undefined
+686,Calle Los Zorzales
+687,Calle Las Gaviotas
+688,Ruiseñores
+689,Calle Los Mirlos
+690,Calle Los Avestruces
+691,Calle Los Oropéndolas
+692,Calle Las Golondrinas
+693,Los Pelicanos
+694,Calle Las Grullas
+695,Calle Las Garzas
+696,Calle Los Flamencos
+697,Calle 30 C
+698,Calle Pedro Peralta
+699,Calle Barranca
+700,Calle Toribio Zavala
+701,Calle Abel Galindez
+702,Calle Pacamarca
+703,Calle Pumacurco
+704,Calle Coropuna
+705,Calle Teniente Pedro Garezon
+706,Calle Los Rosales
+707,Calle Las Dalias
+708,Calle Los Pinos
+709,Jirón Los Cedros
+710,Las Acacias
+711,Calle Los Eucaliptos
+712,Jirón Los Cedros
+713,Las Retamas
+714,Los Alamos
+715,Pasaje Santa Rosa
+716,undefined
+717,Calle Los Pensamientos
+718,Las Casuarinas
+719,Los Helechos
+720,Calle Cantuya
+721,Avenida Jose Santos Chocano
+722,Aurelio García y García
+723,Los Gorriones
+724,Calle 11
+725,Jirón Santa Jacinta
+726,Ausangate
+727,Calle Cumbe
+728,Calle Pumacurco
+729,Collagate
+730,Sergio Bernales
+731,Cayetano Heredia
+732,Carlos Vilarán
+733,Jíron Ricardo Pazos Varela
+734,Capirona
+735,Jirón Santa Cristina
+736,Jirón Santa Martina
+737,Calle Santa Prisca
+738,Jirón Santa Honorata
+739,Jirón Los Cedros
+740,Pasaje Los Helechos
+741,Capitan Alfredo Novoa Cava
+742,M. Cortez
+743,Juan Hoyle P.
+744,Calle Santa Bernardita
+745,Santa Domitila
+746,Santa Eduviges
+747,Calle Santa Brigida
+748,Calle Santa Sofia
+749,Calle Santa Rosalia
+750,Calle Santa Natalia
+751,Santa Susana
+752,Vidal
+753,Avenida del Pescador
+754,Avenida Víctor Raúl Haya de la Torre
+755,Auxiliar Avenida República de Venezuela
+756,Avenida Elmer Faucett
+757,Calle Cesar Vallejo
+758,undefined
+759,Calle Los Faisanes
+760,Marte
+761,Calle Bezada
+762,Abraham Lincoln
+763,Jirón Abraham Lincoln
+764,undefined
+765,Pasaje Senda Verde
+766,undefined
+767,Pasaje Senda Las Estrellas
+768,Pasaje María Cabrejos
+769,Pasaje Senda Celeste
+770,Pasaje Senda Claridad
+771,Pasaje Senda Relámpago
+772,Pasaje Senda Lucero
+773,Pasaje Arturo Revoredo
+774,Pasaje Senda Luna
+775,Colmenares
+776,Republica Arabe Unida
+777,Santa Elena
+778,Pedro Torres Malarin
+779,undefined
+780,undefined
+781,Calle Francisco de Orellana
+782,Calle Las Viñas
+783,Avenida Mariano Cornejo
+784,Calle Saycusca
+785,Machu Picchu
+786,Pasaje Los Cordeles
+787,Calle Los Suspiros
+788,undefined
+789,Calle Manuel Polo Jiménez
+790,Pasaje 1
+791,undefined
+792,Avenida del Pacifico
+793,Avenida del Pacifico
+794,undefined
+795,Chacabuco
+796,Avenida Universitaria
+797,Calle Boca del Río
+798,Santa Natalia
+799,Calle Santa Veronica
+800,Santa Barbara
+801,Avenida Santa Francisca Romana
+802,Santa Bernardita
+803,Santa Bernardita
+804,Santa Bernardita
+805,Santa Bernardita
+806,undefined
+807,Pasaje Santa María
+808,undefined
+809,De Perez Liendo
+810,José de la Riva Agüero
+811,Mariana Echevarria de Santiago
+812,Virginia Candamo de la Puente
+813,Jirón Tacna
+814,Avenida Universitaria
+815,Jirón Salaverry
+816,Avenida Costanera
+817,Avenida Víctor Raúl Haya de la Torre
+818,Avenida La Paz
+819,Avenida La Marina
+820,Avenida La Marina (auxiliar)
+821,Avenida Víctor Raúl Haya de la Torre
+822,Avenida Víctor Raúl Haya de la Torre
+823,Avenida La Marina
+824,Avenida de los Insurgentes
+825,Avenida Víctor Raúl Haya de la Torre
+826,Avenida de los Insurgentes
+827,Avenida La Marina (auxiliar)
+828,Avenida Faucett
+829,Avenida La Marina
+830,Avenida La Marina
+831,Avenida Antonio de Sucre
+832,Avenida Antonio de Sucre
+833,Avenida La Marina
+834,Diego Ferré
+835,Avenida Antonio de Sucre
+836,Avenida Antonio de Sucre
+837,Mazuelos
+838,Avenida La Marina (auxiliar)
+839,Calle Tiziano
+840,Calle Punta Lomitas
+841,Calle Mejía
+842,Calle Bilbao
+843,Calle Lizardo Montero
+844,Calle Punchauca
+845,Avenida de los Insurgentes
+846,Avenida República de Venezuela
+847,Avenida Juan Velasco Alvarado
+848,Calle 34 A
+849,Avenida del Pescador
+850,Calle 30B
+851,Avenida Juan Velasco Alvarado
+852,Avenida Juan Velasco Alvarado
+853,Calle Los Cedros
+854,Avenida Víctor Raúl Haya de la Torre
+855,Avenida El Pacífico
+856,Avenida Víctor Raúl Haya de la Torre
+857,Avenida La Paz
+858,Calle Maranga
+859,Avenida Libertad
+860,Avenida El Pacífico
+861,Avenida Víctor Raúl Haya de la Torre
+862,Avenida Antonio de Sucre
+863,Avenida Antonio de Sucre
+864,Avenida La Marina
+865,Avenida Costanera
+866,Avenida La Marina
+867,Avenida La Marina
+868,Avenida Costanera
+869,José de San Martín
+870,Calle José La Mar
+871,Avenida Lima
+872,Calle José La Mar
+873,Avenida Federico Gallese
+874,Jirón Independencia
+875,José de San Martín
+876,Avenida Tacna
+877,Jirón Grau
+878,Jirón Mariscal Ramón Castilla
+879,Jirón Mariscal Ramón Castilla
+880,Jirón Francisco Bolognesi
+881,Avenida Federico Gallese
+882,Avenida La Marina
+883,Jirón Mariscal Ramon Castilla
+884,Avenida Tacna
+885,Avenida Universitaria
+886,Avenida Universitaria
+887,Avenida La Marina
+888,Avenida La Marina
+889,Avenida La Paz
+890,Circuito de Playas
+891,Circuito de Playas
+892,undefined
+893,Avenida Universitaria
+894,undefined
+895,Avenida Universitaria
+896,Avenida Universitaria
+897,Circuito de Playas
+898,Pasaje Los Nardos
+899,Pasaje Los Jazmines
+900,Pasaje Los Lirios
+901,Pasaje Las Palmeras
+902,Alfonso Ugarte
+903,Jirón Libertad
+904,Jose Inclan
+905,Avenida La Paz
+906,Jirón Cabo Gutarra
+907,Avenida La Marina
+908,Avenida Costanera
+909,Avenida Víctor Raúl Haya de la Torre
+910,Avenida La Paz
+911,Jirón Independencia
+912,Ovalo Independencia
+913,Avenida La Paz
+914,Prolongación Cuzco
+915,Jirón Independencia
+916,Prolongación Cuzco
+917,Jirón Leoncio Prado
+918,Jirón Grau
+919,Jirón Leoncio Prado
+920,Prolongación Cuzco
+921,Jirón Independencia
+922,Avenida Universitaria
+923,Avenida La Paz
+924,28 de Julio
+925,Calle Huamampoma de Ayala
+926,Santa Rosa
+927,Avenida Universitaria
+928,Avenida Manuel Cipriano Dulanto
+929,Avenida Simon Bolivar
+930,Avenida de los Insurgentes
+931,Avenida Manuel Cipriano Dulanto
+932,Avenida Simon Bolivar
+933,Avenida Universitaria
+934,Avenida Mariscal de la Mar
+935,Avenida Mariscal de la Mar
+936,Avenida La Marina
+937,Avenida Universitaria
+938,Avenida El Pacífico
+939,Avenida Universitaria
+940,José de la Riva Agüero
+941,Avenida Víctor Raúl Haya de la Torre
+942,Avenida Jóse de la Riva Agüero
+943,Alfonso Ugarte
+944,Jirón Mariscal Ramon Castilla
+945,Jirón Mariscal Ramon Castilla
+946,Jirón Tacna
+947,Jirón Grau
+948,Jirón Salaverry
+949,Jirón Tacna
+950,Alfonso Ugarte
+951,Jirón Libertad
+952,Avenida La Paz
+953,Jirón Libertad
+954,Calle Echenique
+955,Calle Carlos Bondy
+956,Avenida Universitaria
+957,República de Venezuela
+958,Avenida República de Venezuela
+959,Avenida Elmer Faucett
+960,Avenida República de Venezuela
+961,Avenida El Pacífico
+962,Avenida Víctor Raúl Haya de la Torre
+963,Avenida La Marina
+964,Avenida Mariscal de la Mar
+965,Avenida Jóse de la Riva Agüero
+966,Avenida Universitaria
+967,Avenida Manuel Cipriano Dulanto
+968,República de Venezuela
+969,Avenida República de Venezuela
+970,Avenida de los Insurgentes
+971,Avenida República de Venezuela
+972,Calle Paiján
+973,Avenida La Marina
+974,Jirón Francisco Bolognesi
+975,Jirón Leoncio Prado
+976,Jirón Leoncio Prado
+977,Lopez de Solis
+978,Avenida República de Venezuela
+979,José de la Riva Agüero
+980,Prolongación Lima
+981,Avenida Antonio de Sucre
+982,Jirón Junín
+983,Mazuelos
+984,Jirón Mariscal Ramon Castilla
+985,Avenida La Libertad
+986,José de la Riva Agüero
+987,Jirón Independencia
+988,Avenida Antonio de Sucre
+989,Avenida La Marina
+990,Avenida Universitaria
+991,Avenida Universitaria
+992,Avenida La Marina
+993,Avenida La Marina
+994,Calle B
+995,Avenida Los Patriotas
+996,Avenida de los Insurgentes
+997,Avenida Los Patriotas
+998,Avenida Andrés Razuri
+999,Avenida Los Patriotas
+1000,Jirón Libertad
+1001,Jirón Libertad
+1002,Calle Gamarra
+1003,Avenida La Paz
+1004,Avenida República de Venezuela
+1005,Punta Pariñas
+1006,Avenida La Marina
+1007,Avenida Universitaria
+1008,Avenida Universitaria
+1009,undefined
+1010,Avenida de los Insurgentes
+1011,Prolongación Ayacucho
+1012,Avenida Universitaria
+1013,Avenida Universitaria
+1014,Jirón Francisco Bolognesi
+1015,Jirón Tacna
+1016,Jirón Salaverry
+1017,Avenida de los Insurgentes
+1018,Avenida La Marina
+1019,Avenida Mariano Cornejo
+1020,Avenida Universitaria
+1021,Jirón Independencia
+1022,Avenida Rafael Escardo
+1023,Avenida de los Precursores
+1024,República de Venezuela
+1025,Avenida Universitaria
+1026,Avenida Universitaria
+1027,Avenida Elmer Faucett
+1028,Avenida República de Venezuela
+1029,Jirón Miguel de Echenique
+1030,Jirón Francisco Bolognesi
+1031,Jirón Miguel de Echenique
+1032,Avenida La Paz
+1033,Nicolás de Piérola
+1034,Jirón Grau
+1035,Jirón Mariscal Ramon Castilla
+1036,Comandante Ladislao Espinar
+1037,Avenida La Paz
+1038,Comandante Ladislao Espinar
+1039,Avenida La Marina
+1040,Mazuelos
+1041,Jirón Tacna
+1042,Avenida República de Venezuela
+1043,Avenida Antonio de Sucre
+1044,Avenida Alejandro Bertello
+1045,Avenida República de Venezuela
+1046,Avenida de los Insurgentes
+1047,Avenida Manuel Cipriano Dulanto
+1048,Jirón Libertad
+1049,Avenida Parque de las Leyendas
+1050,Jirón Libertad
+1051,Avenida Jóse de la Riva Agüero
+1052,Avenida La Marina
+1053,Avenida de los Precursores
+1054,Avenida Elmer Faucett
+1055,Avenida del Pacifico
+1056,Padre Urraca
+1057,Avenida La Paz
+1058,Avenida del Pacifico
+1059,Avenida República de Venezuela
+1060,Avenida Universitaria
+1061,Avenida Universitaria
+1062,Avenida Lima
+1063,Avenida Rafael Escardo
+1064,Avenida Rafael Escardo
+1065,Avenida Rafael Escardo
+1066,Avenida de los Insurgentes
+1067,undefined
+1068,undefined
+1069,Avenida Elmer Faucett
+1070,Calle Las Tipas
+1071,undefined
+1072,undefined
+1073,undefined
+1074,undefined
+1075,undefined
+1076,undefined
+1077,undefined
+1078,Avenida Elmer Faucett
+1079,Avenida Elmer Faucett
+1080,undefined
+1081,undefined
+1082,Auxiliar Avenida República de Venezuela
+1083,undefined
+1084,Auxiliar Avenida República de Venezuela
+1085,undefined
+1086,undefined
+1087,Avenida La Marina
+1088,Avenida La Marina
+1089,undefined
+1090,Avenida República de Venezuela
+1091,undefined
+1092,Avenida República de Venezuela
+1093,Avenida Víctor Raúl Haya de la Torre
+1094,Avenida Universitaria
+1095,Avenida Universitaria
+1096,Avenida Jóse de la Riva Agüero
+1097,undefined
+1098,undefined
+1099,Jirón 28 de Julio
+1100,Prolongación Manco Segundo
+1101,Avenida Brigida Silva de Ochoa
+1102,Avenida La Paz
+1103,undefined
+1104,Calle Miramar
+1105,Juan Moore
+1106,undefined
+1107,Calle Canamelares
+1108,Virginia Candamo de la Fuente
+1109,Calle Las Águilas
+1110,Avenida República de Venezuela
+1111,Avenida República de Venezuela
+1112,Avenida República de Venezuela
+1113,Avenida República de Venezuela
+1114,B. San Nicolás
+1115,undefined
+1116,undefined
+1117,Calle 30B
+1118,Avenida Elmer Faucett
+1119,Avenida Costanera
+1120,Avenida Costanera
+1121,Avenida Costanera
+1122,Avenida Costanera
+1123,Avenida Costanera
+1124,Calle Huamachuco
+1125,Pasaje Carlos Loayza
+1126,Puquina
+1127,Aricota
+1128,undefined
+1129,undefined
+1130,undefined
+1131,Calle 26A
+1132,Calle Las Águilas
+1133,Calle Los Halcones
+1134,Calle Los Olivos
+1135,Calle Madreselvas
+1136,Calle Chepan
+1137,Calle San Fernando
+1138,Isla Mazorca
+1139,Pasaje Bayobar
+1140,undefined
+1141,Avenida Costanera
+1142,Calle Emancipación
+1143,Jirón Mariscal Ramon Castilla
+1144,Jirón Mariscal Antonio José de Sucre
+1145,Jirón J. de Sucre
+1146,Jirón Mariscal Ramón Castilla
+1147,Jirón Libertad
+1148,Avenida La Paz
+1149,Calle Carlos Augusto Salaverry
+1150,Avenida Elmer Faucett
+1151,Prolongación Ayacucho
+1152,Prolongación Ayacucho
+1153,Calle Las Águilas
+1154,Fortunato Quezada
+1155,Fortunato Quezada
+1156,Calle Francisca Zubiaga
+1157,Calle Caminos del Inca
+1158,Jirón Los Cedros
+1159,Calle Mollocmarca
+1160,Puquina
+1161,Jirón Los Mochicas
+1162,Avenida Parque de las Leyendas
+1163,Pasaje Tungasuca
+1164,Jirón Francisco Bolognesi
+1165,Puga de Lozada
+1166,Calle Kenko
+1167,Calle Kenko
+1168,Ciro Alegria
+1169,Ciro Alegria
+1170,Morales
+1171,Podesta
+1172,Salamanca
+1173,Santa Isabel
+1174,Santa Isabel
+1175,Salamanca
+1176,San Marcos
+1177,Diego de Medina
+1178,Paracas
+1179,Pedro Benvenutto Murrieta
+1180,Podesta
+1181,Jirón Río Tambo
+1182,M. Raygada
+1183,Avenida Monseñor Jorge Dintilhac
+1184,Pasaje Las Fresas
+1185,Los Alamos
+1186,undefined
+1187,undefined
+1188,Domingo Astete y Moscoso
+1189,José de la Riva Agüero
+1190,Jirón Amazonas
+1191,Jirón Simón Bolívar
+1192,Jirón Miguel de Echenique
+1193,Jirón Independencia
+1194,José de San Martín
+1195,Jirón Huamanga
+1196,Jirón Amazonas
+1197,José de San Martín
+1198,Trinidad Enriquez
+1199,Moyopampa
+1200,Huandoy
+1201,Mariano Valdárrago
+1202,Bahia de la Independecia
+1203,undefined
+1204,Calle 47 D
+1205,undefined
+1206,undefined
+1207,Circuito de Playas
+1208,Circuito de Playas
+1209,Calle de Andrés Castelo
+1210,Calle Las Tunas
+1211,undefined
+1212,undefined
+1213,Morales
+1214,Avenida Brigida Silva de Ochoa
+1215,Brigida Silva de Ochoa
+1216,Avenida Elmer Faucett
+1217,Avenida Elmer Faucett
+1218,Auxiliar Avenida República de Venezuela
+1219,Auxiliar Avenida República de Venezuela
+1220,Avenida Elmer Faucett
+1221,undefined
+1222,Avenida República de Venezuela
+1223,undefined
+1224,undefined
+1225,Avenida Universitaria
+1226,undefined
+1227,undefined
+1228,Circuito de Playas
+1229,Circuito de Playas
+1230,Avenida Costanera
+1231,Avenida Costanera
+1232,Avenida Costanera
+1233,undefined
+1234,undefined
+1235,undefined
+1236,undefined
+1237,undefined
+1238,undefined
+1239,undefined
+1240,Avenida Universitaria
+1241,Santa Bernardita
+1242,Santa Bernardita
+1243,Avenida Mariano Cornejo
+1244,Avenida Mariano Cornejo
+1245,undefined
+1246,Avenida República de Venezuela
+1247,Avenida de los Precursores
+1248,Avenida de los Insurgentes
+1249,Avenida de los Precursores
+1250,undefined
+1251,Avenida de los Insurgentes
+1252,undefined
+1253,Avenida Elmer Faucett
+1254,Avenida Costanera
+1255,Avenida República de Venezuela
+1256,Auxiliar Avenida República de Venezuela
+1257,Avenida República de Venezuela
+1258,Calle Las Águilas
+1259,undefined
+1260,Jirón José Gálvez
+1261,Avenida Manuel Cipriano Dulanto
+1262,Avenida Mariano Cornejo
+1263,Avenida Santa Gertrudis
+1264,Avenida Simon Bolivar
+1265,undefined
+1266,undefined
+1267,undefined
+1268,undefined
+1269,undefined
+1270,undefined
+1271,undefined
+1272,Avenida Víctor Raúl Haya de la Torre
+1273,Avenida La Marina
+1274,Avenida Víctor Raúl Haya de la Torre
+1275,Avenida La Marina
+1276,Avenida Elmer Faucett
+1277,undefined
+1278,undefined
+1279,Avenida La Marina (auxiliar)
+1280,Avenida Víctor Raúl Haya de la Torre
+1281,undefined
+1282,Avenida La Paz
+1283,undefined
+1284,undefined
+1285,Avenida del Pescador
+1286,Avenida Víctor Raúl Haya de la Torre
+1287,Calle Gritos de Huaura
+1288,Jirón Libertad
+1289,Avenida Rafael Escardo
+1290,Avenida Rafael Escardo
+1291,Avenida Rafael Escardo
+1292,Avenida Elmer Faucett
+1293,Avenida Elmer Faucett
+1294,undefined
+1295,undefined
+1296,Avenida Elmer Faucett
+1297,Avenida La Marina (auxiliar)
+1298,Jirón Arequipa
+1299,Avenida del Pescador
+1300,Jirón Miguel de Unamuno
+1301,Martinez
+1302,Jirón Camino de Inca
+1303,Prolongación Ayacucho
+1304,Jirón J. de Sucre
+1305,Barbara Alcazar
+1306,Molina
+1307,undefined
+1308,Brigida Silva de Ochoa
+1309,Avenida La Marina
+1310,Jose Medina
+1311,Jirón Jorge Castro Harrinson
+1312,Jirón J. de Sucre
+1313,Prolongación Cuzco
+1314,José de San Martín
+1315,Santa Ana
+1316,Santa Ana
+1317,Prolongación Ayacucho
+1318,Avenida Arica
+1319,Alfonso Ugarte
+1320,Avenida Tacna
+1321,Alfonso Ugarte
+1322,Avenida Lima
+1323,Alameda Julio C. Tello
+1324,José de la Riva Agüero
+1325,undefined
+1326,undefined
+1327,José de la Riva Agüero
+1328,undefined
+1329,undefined
+1330,undefined
+1331,undefined
+1332,undefined
+1333,undefined
+1334,Paris
+1335,undefined
+1336,Cesar Lopez Rojas
+1337,Avenida Jorge Dintilhac
+1338,undefined
+1339,Auxiliar Avenida República de Venezuela
+1340,Avenida La Marina
+1341,Avenida La Marina
+1342,Avenida La Marina
+1343,Jirón Juan Parra del Riego
+1344,undefined
+1345,undefined
+1346,Martin Oviedo
+1347,Calle Cipreses
+1348,undefined
+1349,undefined
+1350,Avenida República de Venezuela
+1351,Calle del Pacifico
+1352,undefined
+1353,Nueva
+1354,Circuito de Playas
+1355,Circuito de Playas
+1356,Jirón Chongoyape
+1357,undefined
+1358,Calle Islas Java
+1359,undefined
+1360,Calle Ilave
+1361,Avenida Universitaria
+1362,Santa Ana
+1363,Avenida República de Venezuela
+1364,Avenida República de Venezuela
+1365,Calle Bezada
+1366,Calle Santa Nicerata
+1367,Avenida República de Venezuela
+1368,undefined
+1369,undefined
+1370,undefined
+1371,Avenida La Marina
+1372,Avenida La Marina
+1373,Avenida La Marina
+1374,Avenida La Marina
+1375,Avenida La Marina
+1376,Avenida La Marina
+1377,Avenida La Marina
+1378,Avenida La Marina
+1379,Circuito de Playas
+1380,undefined
+1381,undefined
+1382,undefined
+1383,Padre Urraca
+1384,undefined
+1385,undefined
+1386,Calle Las Orquídeas
+1387,Calle Las Magnolias
+1388,Calle Los Azahares
+1389,undefined
+1390,Calle los Rosales
+1391,Calle Villac Umo
+1392,undefined
+1393,José de San Martín
+1394,Jirón Ezequiel Ossio Peñaranda
+1395,Pasaje Senda El Sol
+1396,Los Girasoles de Pando
+1397,Calle Los Sauces
+1398,Calle Los Tordos
+1399,undefined
+1400,undefined
+1401,undefined
+1402,undefined
+1403,Calle Pacamarca
+1404,Avenida República de Venezuela
+1405,Calle Puerto Viejo
+1406,undefined
+1407,Calle Otorongo
+1408,Calle Intisuyo
+1409,Pasaje Los Cordeles
+1410,Calle Los Suspiros
+1411,Calle Juan Enrique Valladares
+1412,Pasaje Punta Brava
+1413,Jirón Santa Faustina
+1414,Calle 2 de Mayo
+1415,Jirón Los Pinos
+1416,Jirón Los Pinos
+1417,undefined
+1418,Jirón Santa Aurelia
+1419,undefined
+1420,Circuito de Playas
+1421,undefined
+1422,undefined
+1423,undefined
+1424,undefined
+1425,undefined
+1426,undefined
+1427,undefined
+1428,Cardos
+1429,Calle Tacna
+1430,undefined
+1431,undefined
+1432,Monseñor Luis Lituna
+1433,undefined
+1434,undefined
+1435,Avenida Parque de las Leyendas
+1436,undefined
+1437,undefined
+1438,undefined
+1439,undefined
+1440,Auxiliar Avenida República de Venezuela
+1441,Auxiliar Avenida República de Venezuela
+1442,undefined
+1443,undefined
+1444,Calle Isidrio Suarez
+1445,Padre Urraca
+1446,undefined
+1447,Avenida de los Precursores
+1448,Fortunato Quezada
+1449,undefined
+1450,undefined
+1451,undefined
+1452,undefined
+1453,undefined
+1454,Calle Los Tulipanes
+1455,Avenida La Marina
+1456,Padre Urraca
+1457,undefined
+1458,Avenida Los Patriotas
+1459,undefined
+1460,Encinas
+1461,undefined
+1462,undefined
+1463,undefined
+1464,undefined
+1465,Avenida La Marina
+1466,Avenida La Marina
+1467,Avenida Elmer Faucett
+1468,undefined
+1469,undefined
+1470,undefined
+1471,undefined
+1472,undefined
+1473,undefined
+1474,Padre Urraca
+1475,Calle José Gabriel Aguilar
+1476,undefined
+1477,Avenida Parque de las Leyendas
+1478,Jirón Mariscal Ramon Castilla
+1479,Jirón Mariscal Ramon Castilla
+1480,undefined
+1481,Pedro Torres Malarin
+1482,Daniel Hernandez
+1483,Herrera
+1484,Herrera
+1485,Brigida Silva de Ochoa
+1486,Avenida Brigida Silva de Ochoa
+1487,Avenida Faucett
+1488,Avenida Faucett
+1489,Juan Balcarza
+1490,undefined
+1491,Los Helechos
+1492,Jirón 28 de Julio
+1493,Jirón Río Tambo
+1494,Francisco Moreyra y Riglos
+1495,María José de Arce
+1496,Avenida Elmer Faucett
+1497,Avenida Elmer Faucett
+1498,Jirón José Cuauthemoc
+1499,Circuito de Playas
+1500,Circuito de Playas
+1501,Circuito de Playas
+1502,Circuito de Playas
+1503,Calle Gamarra
+1504,Calle Gamarra
+1505,undefined
+1506,Circuito de Playas
+1507,Circuito de Playas
+1508,Circuito de Playas
+1509,Circuito de Playas
+1510,Circuito de Playas
+1511,Circuito de Playas
+1512,Circuito de Playas
+1513,Circuito de Playas
+1514,Avenida Costanera
+1515,Avenida Costanera
+1516,Avenida Costanera
+1517,Avenida Costanera
+1518,undefined
+1519,undefined
+1520,undefined
+1521,undefined
+1522,undefined
+1523,Pasaje Simón Bolívar
+1524,Jirón Mariscal Ramon Castilla
+1525,Calle Elias Chunga Zapata
+1526,undefined
+1527,undefined
+1528,undefined
+1529,undefined
+1530,Circuito de Playas
+1531,Avenida La Marina
+1532,Avenida La Marina
+1533,Juan Valer Sandoval
+1534,Avenida La Marina
+1535,Avenida Universitaria
+1536,Avenida Universitaria
+1537,Avenida Universitaria
+1538,Avenida Mariano Cornejo
+1539,Avenida Rafael Escardo
+1540,Avenida La Marina
+1541,Avenida La Marina
+1542,Avenida La Marina
+1543,Avenida Antonio de Sucre
+1544,Avenida La Marina
+1545,Avenida Antonio de Sucre
+1546,Avenida de los Insurgentes
+1547,Avenida Mariano Cornejo
+1548,Avenida Santa Gertrudis
+1549,Avenida Santa Gertrudis
+1550,Avenida Mariano Cornejo
+1551,Avenida Mariano Cornejo
+1552,Avenida República de Venezuela
+1553,Avenida República de Venezuela
+1554,Avenida República de Venezuela
+1555,Avenida Elmer Faucett
+1556,Mama Runter
+1557,Avenida Antonio de Sucre
+1558,Avenida Jorge Dintilhac
+1559,Prolongación Ayacucho
+1560,Jirón Mariscal Ramón Castilla
+1561,Prolongación Ayacucho
+1562,Calle Fortunato Quezada
+1563,Avenida Parque de las Leyendas
+1564,Calle Alameda Zenti
+1565,Pasaje Senda Violeta
+1566,Avenida Universitaria
+1567,República de Venezuela
+1568,Avenida Parque de las Leyendas
+1569,Avenida Mariscal de la Mar
+1570,Pasaje 3
+1571,Pasaje 2
+1572,Pasaje Los Claveles
+1573,Pasaje Las Violetas
+1574,Pasaje Las Rosas
+1575,Calle Laredo
+1576,Calle Santa Nicerata
+1577,Calle Vinzos
+1578,undefined
+1579,undefined
+1580,Calle Coricancha
+1581,undefined
+1582,undefined
+1583,Avenida La Marina
+1584,Avenida Universitaria
+1585,Punta Malpelo
+1586,Avenida Mariscal de la Mar
+1587,Avenida Monseñor Jorge Dintilhac
+1588,Avenida La Marina
+1589,undefined
+1590,Bahía Matarani
+1591,undefined
+1592,Willian King
+1593,Avenida Universitaria
+1594,Avenida Universitaria
+1595,Rio Ucayali
+1596,Avenida Universitaria
+1597,undefined
+1598,Avenida Mariscal de la Mar
+1599,Avenida Simon Bolivar
+1600,undefined
+1601,undefined
+1602,undefined
+1603,Avenida Faucett
+1604,Avenida de los Precursores
+1605,undefined
+1606,undefined
+1607,undefined
+1608,Avenida de los Precursores
+1609,Avenida Elmer Faucett
+1610,La Sevillana
+1611,La Madrileña
+1612,La Madrileña
+1613,La Sevillana
+1614,París
+1615,Montecarlo
+1616,Costa Verde
+1617,Costa Verde
+1618,Avenida Universitaria
+1619,Avenida Brigida Silva de Ochoa
+1620,Avenida La Paz
