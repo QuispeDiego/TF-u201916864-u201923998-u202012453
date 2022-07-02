@@ -1,5 +1,3 @@
-
-
 from random import uniform
 from numpy import double
 from sqlalchemy import false, true
@@ -88,27 +86,6 @@ with open("nodes.txt",encoding="cp437", errors='ignore') as f_obj:
 
 
 
-def dijkstra(G, s):
-  n = len(G)
-  visited = [False]*n
-  path = [-1]*n
-  cost = [math.inf]*n
-
-  cost[s] = 0
-  pqueue = [(0, s)]
-  while pqueue:
-    g, u = hq.heappop(pqueue)
-    if not visited[u]:
-      visited[u] = True
-      for v in G[u]:
-        if not visited[v.id]:
-          f = g + v.Data.trafficFactor
-          if f < cost[v.id]:
-            cost[v.id] = f
-            path[v.id] = u
-            hq.heappush(pqueue, (f, v.id))
-
-  return path, cost
 
 
 keepFirst=false
@@ -132,7 +109,3 @@ for  _way in ways_connect_whith_nodes:
          back_node=node
          keepFirst=true
 
-for i in ListAds[0]:
-        print(i.Data.trafficInfo)
-path,cost=dijkstra(ListAds,0)        
-print(path)
