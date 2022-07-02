@@ -10,16 +10,17 @@ def transformGraph():
     G=[]
     Nodes=fs.nodes
     Loc =[]
+    dayHour = 7
     for lat_long in Nodes:
      Loc.append(Nodes[lat_long]) 
 
     for list in fs.ListAds:
       auxlist=[]
       for node in list:
+        node.Data.setTrafficFactor(dayHour) 
         auxlist.append((node.id,node.Data.getTrafficFactor()))
       G.append(auxlist)
     return G, Loc
-
 def bfs(G, s):
   n = len(G)
   visited = [False]*n
@@ -50,15 +51,12 @@ def dfs(G, s):
         visited[v] = True
         path[v] = u
         queue.append(v)
-
   return path
-  
 def dijkstra(G, s):
     n = len(G)
     visited = [False]*n
     path = [-1]*n
     cost = [math.inf]*n
-
     cost[s] = 0
     pqueue = [(0, s)]
     while pqueue:
@@ -71,16 +69,11 @@ def dijkstra(G, s):
                     if f < cost[v]:
                         cost[v] = f
                         path[v] = u
-                        hq.heappush(pqueue, (f, v))
-
+                        hq.heappush(pqueue, (f, v))                
     return path, cost
-
 G, Loc = transformGraph()
-
 def graph():
     return json.dumps({"loc": Loc, "g": G})
-
-
 def paths(s, t):
     bestpath, _ = dijkstra(G, s)
     path1 = bfs(G, s)
